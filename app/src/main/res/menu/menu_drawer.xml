@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_language"
+            android:icon="@drawable/baseline_arrow_drop_down_24"
+            android:title="@string/language_change" />
+    </group>
+    <item
+        android:checkableBehavior="none"
+        android:enabled="false" />
+
+    <group android:checkableBehavior="all">
+        <item
+            android:id="@+id/nav_fehrist"
+            android:icon="@drawable/flower"
+            android:title="@string/button_fehrist" />
+        <item
+            android:id="@+id/nav_tabsira"
+            android:icon="@drawable/flower"
+            android:title="@string/button_tabsira" />
+        <item
+            android:id="@+id/nav_introduction"
+            android:icon="@drawable/flower"
+            android:title="@string/button_introduction" />
+        <item
+            android:id="@+id/nav_intesab"
+            android:icon="@drawable/flower"
+            android:title="@string/button_intesab" />
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@drawable/baseline_search_24"
+            android:title="@string/button_search" />
+        <item
+            android:id="@+id/nav_app"
+            android:icon="@drawable/flower"
+            android:title="@string/button_app" />
+    </group>
+    <item
+        android:checkableBehavior="none"
+        android:enabled="false" />
+
+    <group android:checkableBehavior="all">
+        <item
+            android:id="@+id/nav_facebook"
+            android:icon="@drawable/face"
+            android:title="@string/facebook_page"/>
+        <item
+            android:id="@+id/nav_instagram"
+            android:icon="@drawable/insta"
+            android:title="@string/instagram_pages"/>
+        <item
+            android:id="@+id/nav_youtube"
+            android:icon="@drawable/youtube"
+            android:title="@string/youtube_channel"/>
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/baseline_share_24"
+            android:title="@string/app_share_link"/>
+    </group>
+    <item
+        android:checkableBehavior="none"
+        android:enabled="false" />
+</menu>

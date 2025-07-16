@@ -1,0 +1,197 @@
+<resources>
+    <string name="app_name">अक्स-ए-सानी</string>
+    <string name="button_fehrist">फ़ेहरिस्त</string>
+    <string name="button_tabsira">टब्सीरा</string>
+    <string name="button_introduction">तारुफ़</string>
+    <string name="button_intesab">इंतसाब</string>
+    <string name="button_search">तलाश</string>
+    <string name="button_app">ऐप</string>
+    <string name="language_change">भाषा बदलें</string>
+    <string name="language_hindi">हिन्दी</string>
+    <string name="language_english">अंग्रेजी</string>
+    <string name="language_urdu">उर्दू</string>
+    <string name="facebook_page">फेसबुक पेज</string>
+    <string name="instagram_pages">इंस्टाग्राम पेज</string>
+    <string name="youtube_channel">यूट्यूब चैनल</string>
+    <string name="app_share_link">ऐप साझा करें</string>
+    <string name="open_drawer">नेविगेशन ड्रावर खोलें</string>
+    <string name="close_drawer">नेविगेशन ड्रावर बंद करें</string>
+    <string name="nav_header_nooruddin">नूरुद्दीन सानी</string>
+    <string name="nav_header_image_desc">हेडर छवि</string>
+    <string name="share_via">के माध्यम से साझा करें</string>
+    <string name="content_desc_main_image">नूरुद्दीन सानी की मुख्य छवि</string>
+    <string name="fehrist_title">फ़ेहरिस्त</string>
+    <string name="tabsira_title">टब्सीरा</string>
+    <string name="introduction_title">तारुफ़</string>
+    <string name="intesab_title">इंतसाब</string>
+    <string name="search_title">तलाश</string>
+    <string name="app_title">ऐप जानकारी</string>
+
+    <!-- Section headings -->
+    <string name="section_hamd">हम्द</string>
+    <string name="section_naat">नात</string>
+    <string name="section_manajat">मनाजात</string>
+    <string name="section_man_ki_yad">माँ की याद में</string>
+    <string name="section_ghazals">ग़ज़लें</string>
+    <string name="section_qita">क़िता</string>
+
+    <!-- Hamd -->
+    <string name="hamd_1">वो यकता है यगाना है वो हर आलम का बानी है</string>
+    <string name="hamd_2">तेरी क़ुदरत डाली डाली</string>
+
+    <!-- Naat -->
+    <string name="naat_1">महबूब जिस को हो गई सुन्नत रसूल की</string>
+    <string name="naat_2">जिस का भी मुहम्मद से वास्ता नहीं होगा</string>
+
+    <!-- Manajat -->
+    <string name="manajat_1">एक बार मुझे भी तो तयबा को दिखा दे रब</string>
+
+    <!-- Man ki Yad Men -->
+    <string name="man_ki_yad_1">इस दुनिया में तू नहीं ज़िंदा, अब तनहा घबराऊँ माँ</string>
+
+    <!-- Ghazals -->
+    <string name="ghazal_1">रहज़नी आने लगी जब रहबरों के दरमियाँ</string>
+    <string name="ghazal_2">अगरचे आरज़ू हो ये कि ख़ुद को जावदाँ कर लें</string>
+    <string name="ghazal_3">जिन का परनूर इबादत से जिगर होता है</string>
+    <string name="ghazal_4">उसी के इश्क़ के साँचे में ढल रहा हूँ मैं</string>
+    <string name="ghazal_5">रोज़ ही हादिसा बन बन के मिला करती है</string>
+    <string name="ghazal_6">आँखों से बदगुमानी का चश्मा उतार देख</string>
+    <string name="ghazal_7">ग़म के सागर से तू निकाल मुझे</string>
+    <string name="ghazal_8">दरिंदों की हिमायत हो रही है</string>
+    <string name="ghazal_9">जब से मुझको तुझ से उल्फ़त हो गई</string>
+    <string name="ghazal_10">इश्क़ में जाँ निसार कौन करे</string>
+    <string name="ghazal_11">मुझ को हसरत है उसे दिल के मकाँ तक देखूँ</string>
+    <string name="ghazal_12">कितना करते हो प्यार आज कहो</string>
+    <string name="ghazal_13">जो छोड़ा था उसी पर आ गया ना</string>
+    <string name="ghazal_14">ज़मीं के साथ अंबर बोलता है</string>
+    <string name="ghazal_15">उस के सिवा किसी से मोहब्बत नहीं हुई</string>
+    <string name="ghazal_16">अक़्ल हैराँ है मेरी आज वो क्या कहते हैं</string>
+    <string name="ghazal_17">जो हुआ सो हुआ अमाँ छोड़ो</string>
+    <string name="ghazal_18">रंज ओ ग़म और मुसीबत के सिवा</string>
+    <string name="ghazal_19">पागल कोई मजनूँ कोई दीवाना कहे है</string>
+    <string name="ghazal_20">हौसला मिस्ल-ए-पैग़ंबर रखना</string>
+    <string name="ghazal_21">कर के उपकार ज़रा देख ले दुखियारी पर</string>
+    <string name="ghazal_22">क्या कहूँ उस ने क्या दिया फिर से</string>
+    <string name="ghazal_23">दम अखड़ अखड़ जाए ज़िंदगी बिखर जाए</string>
+    <string name="ghazal_24">उल्फ़त में दिल फ़रेफ़्ता बनाए हुए तो हैं</string>
+    <string name="ghazal_25">पास आ ऐ मेरे यार थोड़ा सा और</string>
+    <string name="ghazal_26">कितना भूखा है ये ज़माना भी</string>
+    <string name="ghazal_27">हिज्र में तुम्हारा दिल कैसे यार लगता है</string>
+    <string name="ghazal_28">कहूँ क्या एक तेरी दोस्ती को</string>
+    <string name="ghazal_29">उस को पाना मेरी हसरत ही सही</string>
+    <string name="ghazal_30">ये करिश्मा हुआ आप ही के सबब</string>
+    <string name="ghazal_31">मर जाना हक़ की ख़ातिर दिल से क़बूल है</string>
+    <string name="ghazal_32">पुर सुकूँ गाँव नगर थे पुर सुकूँ बाज़ार था</string>
+    <string name="ghazal_33">उन का ही एतबार करते रहे</string>
+    <string name="ghazal_34">मुझे फ़र्क़ कुछ नहीं पड़ता है, चाहिए मुझ से कोई ख़फ़ा रहे</string>
+    <string name="ghazal_35">तेरी नफ़रत को भी मैंने कब नफ़रत से देखा है</string>
+    <string name="ghazal_36">तुम से वादा है इस दीवाने का</string>
+    <string name="ghazal_37">गुज़रा है कैसा सानिहा दिल ख़ूब जाने है</string>
+    <string name="ghazal_38">सहमी हुई है आज फ़िज़ा घुट रहा है दम</string>
+    <string name="ghazal_39">जफ़ा तो कर या वफ़ा अब तो तेरी मर्ज़ी है</string>
+    <string name="ghazal_40">राह पर दुश्मनों की वो चलने लगे</string>
+    <string name="ghazal_41">तेरी आँखों में जो काजल नहीं है</string>
+    <string name="ghazal_42">अब रिहाई या ज़मानत हो न हो</string>
+    <string name="ghazal_43">उसकी यादों के मैं लश्कर से घिरा रहता हूँ</string>
+    <string name="ghazal_44">एक नज़र देख लो आ कर तुम हो</string>
+    <string name="ghazal_45">कोई शिकवा नहीं ज़माने से</string>
+    <string name="ghazal_46">काम ऐसा महान कर बैठा</string>
+    <string name="ghazal_47">किसी से दिल को लगाने की क्या ज़रूरत थी</string>
+    <string name="ghazal_48">आप से क्या जुदा हुआ है दिल</string>
+    <string name="ghazal_49">यार हँसने हँसाने का माहौल हो</string>
+    <string name="ghazal_50">आप जब तोड़ोगे अपनी ख़ामोशी का सिलसिला</string>
+    <string name="ghazal_51">मैं हूँ मीठा सा एक समंदर देख</string>
+    <string name="ghazal_52">वफ़ा और प्यार की बातें</string>
+    <string name="ghazal_53">ले तो सारी की सारी दुनिया रख</string>
+    <string name="ghazal_54">तन्हा तन्हा चलना होगा कब तक आख़िर हम को और</string>
+    <string name="ghazal_55">कहीं पे फूल कहीं दिल बिछा दिया मैंने</string>
+    <string name="ghazal_56">ज़िंदगी थी मेरी बस वही ज़िंदगी</string>
+    <string name="ghazal_57">सामने बस मेरा आइना रह गया</string>
+    <string name="ghazal_58">मुझे वो क्या मिले ज़िंदगी मिल गई</string>
+    <string name="ghazal_59">कर लिया तुम ने इरादा यह कभी सोचा भी है</string>
+    <string name="ghazal_60">वो जिस ने देखा हो बस रौशनी को</string>
+    <string name="ghazal_61">सदा-ए-हक़ दबा देगा अबे जा</string>
+    <string name="ghazal_62">जागना और जगाते रहना</string>
+    <string name="ghazal_63">को बको यूं जो भटकता हूँ मैं हरदम हरपल</string>
+    <string name="ghazal_64">तू है क़रीब मेरे और जुस्तजू करें क्या</string>
+    <string name="ghazal_65">कैसे बयान करूँ मैं कि क्या क्या नज़र में है</string>
+    <string name="ghazal_66">ज़िंदगानी की डगर अच्छी नहीं</string>
+    <string name="ghazal_67">अदु की भीड़ देखो न अदु का क़ाफ़िला देखो</string>
+    <string name="ghazal_68">जो दानिशमंद होते हैं कभी ऐसा नहीं करते</string>
+    <string name="ghazal_69">याद उनकी दिला के आख़िरकार</string>
+    <string name="ghazal_70">वो जो कहे वही करें ऐसे नहीं हैं हम</string>
+    <string name="ghazal_71">बुज़ुर्गों के जो क़दमों में कभी बैठा नहीं होगा</string>
+    <string name="ghazal_72">दिल से जब अपने बुज़ुर्गों की दुआ पाओगे</string>
+    <string name="ghazal_73">सलामत जब तलक ईमान है ऐसा नहीं होगा</string>
+    <string name="ghazal_74">क़ल्ब से क़ल्ब का जब राब्ता हो जाएगा</string>
+    <string name="ghazal_75">ज़िंदगानी के सफ़र में हादसा कुछ कम न था</string>
+    <string name="ghazal_76">तुम्हारा साथ जब होगा तो फिर ऐसा नहीं होगा</string>
+    <string name="ghazal_77">जीने के लिए हरगिज़ ऐसा नहीं करते हैं</string>
+    <string name="ghazal_78">यारो मुझे अक्सर ऐसा, क्यों लगता है सोच रहा हूँ</string>
+    <string name="ghazal_79">क्या है तूने दिखावा, दिखावा निकलेगा</string>
+    <string name="ghazal_80">तमाम उम्र जो करता रहा है काम ग़लत</string>
+    <string name="ghazal_81">इश्क़ कर के तूने ऐ दिल ख़ाक अच्छा कर लिया</string>
+    <string name="ghazal_82">न पूछो हम से तुम क्या क्या हम अपना छोड़ देते हैं</string>
+    <string name="ghazal_83">हाय कैसी अपनी क़िस्मत हो गई</string>
+    <string name="ghazal_84">उस की तरह हमारी तो आदत न होने की</string>
+    <string name="ghazal_85">अमन के क़ातिल अमन के दुश्मन, अब तो तेरी ख़ैर नहीं</string>
+    <string name="ghazal_86">आज तक उनकी मोहब्बत से यूं बेज़ार हैं हम</string>
+    <string name="ghazal_87">तेरे गुलनार चेहरे की ज़िया कुछ और कहती है</string>
+    <string name="ghazal_88">यह मेरी आँख जो परनम नहीं है</string>
+    <string name="ghazal_89">ख़ुलूस ओ वफ़ा और चाहत अगर हो</string>
+    <string name="ghazal_90">न पूछ मुझ को क्या मिला, मज़ाक़ ही मज़ाक़ में</string>
+    <string name="ghazal_91">जो इधर हाल है वो उधर भी तो हो</string>
+    <string name="ghazal_92">मेरे जज़्बात ज़िंदा हैं अभी अरमान बाक़ी है</string>
+    <string name="ghazal_93">रहेगी हमेशा ही रफ़अत वतन की</string>
+    <string name="ghazal_94">न भूलोगे शहीदों की शहादत को क़सम खाओ</string>
+    <string name="ghazal_95">कैसे असलाफ़ का रास्ता छोड़ दें</string>
+    <string name="ghazal_96">ये मानोगे एक दिन कहा देख लेना</string>
+    <string name="ghazal_97">अब सिवा मौत के कोई चारा नहीं</string>
+    <string name="ghazal_98">ज़िंदगानी का भी मौसम सुहाना हुआ</string>
+    <string name="ghazal_99">किसी के घर के लिए और किसी की जाँ के लिए</string>
+    <string name="ghazal_100">दोस्तो शिकवे गिले को भूल जाइए ईद में</string>
+    <string name="ghazal_101">तमाशा देखने वालो तुम्हें उस की ख़बर क्या है</string>
+    <string name="ghazal_102">यार हम से क्या हमारे खो गए</string>
+    <string name="ghazal_103">आईना तू हमें मत दिखाना कभी</string>
+    <string name="ghazal_104">वो जब से मेरे पास आने लगे हैं</string>
+    <string name="ghazal_105">जिसे नज़र में जिगर में बसा के रखते हैं</string>
+    <string name="ghazal_106">ये मेरे पास ऐ लोगो ज़रा सा क्या हुआ पैसा</string>
+    <string name="ghazal_107">बन के मौसम बहार आए हो</string>
+    <string name="ghazal_108">इश्क़ करने वालों में फ़ासला नहीं होता</string>
+    <string name="ghazal_109">तारीकियों को यूँ भी मिटाना पड़ा मुझे</string>
+    <string name="ghazal_110">मुझ को चाहत में क्या हुआ तेरी</string>
+    <string name="ghazal_111">ख़ुद को इतना भी मत उछाला कर</string>
+    <string name="ghazal_112">सोचिएगा ज़रा ये ख़ुदा के लिए</string>
+    <string name="ghazal_113">जहान तेरे लिए है न तू जहान के लिए</string>
+    <string name="ghazal_114">हुजरे के पास है न वो मिम्बर के आस पास</string>
+    <string name="ghazal_115">ख़ुदा के सामने एक दिन सभी का फ़ैसला होगा</string>
+    <string name="ghazal_116">रुख़ अपना फेर के मुझ से जो जा रहा है अब</string>
+    <string name="ghazal_117">तुझ से मैं डर जाऊँ काहे को</string>
+    <string name="ghazal_118">दौर-ए-हाज़िर में ऐसी ख़ता किस लिए</string>
+    <string name="ghazal_119">क्या अजब शय ये प्यार है साहब</string>
+    <string name="ghazal_120">रोते हुए को यार हँसाना, ये इस्लाम सिखाता है</string>
+    <string name="ghazal_121">चराग़-ए-मोहब्बत यूँ जलने का ना है</string>
+    <string name="ghazal_122">बहुत आसान है घर को जलाना</string>
+    <string name="ghazal_123">मैं यहाँ ढूँढता ही रहा और कुछ</string>
+    <string name="ghazal_124">हमारी तरह वफ़ा तुम भी कर सकोगे क्या</string>
+    <string name="ghazal_125">तेरा दीवाना भला और किधर जाए गा</string>
+    <string name="ghazal_126">ख़ुमार उस आँख की तीखी शराब का न गया</string>
+    <string name="ghazal_127">तुम जो तन्हाई में आ बैठे हो</string>
+    <string name="ghazal_128">दिल में था उस के और न उस के जिगर में था</string>
+    <string name="ghazal_129">सोच कर ये मेरा दिल दहलने लगा</string>
+    <string name="ghazal_130">फ़ितरत नहीं बदलती है इंसान क्या करे</string>
+    <string name="ghazal_131">दिल मेरा साज़-ए-मोहब्बत पे चहक लेता है</string>
+    <string name="ghazal_132">बे वफ़ा को बा वफ़ा काहे कहो हो</string>
+    <string name="ghazal_133">तुझ को रुसवा न करूँ गा मैं ये सर जाने तक</string>
+    <string name="ghazal_134">तेरी यादों में लिपटी हुई तर हवा</string>
+
+    <!-- Qita -->
+    <string name="qita_1">एहद-ए-हाज़िर का ऐसा सुख़नवर है तू</string>
+    <string name="qita_2">हर एक शेर, ग़ज़ल को, हर एक कहानी को</string>
+    <string name="qita_3">पूरा दिल का हुआ अरमान यारो</string>
+
+    <!-- Added Strings -->
+    <string name="no_meanings_found">\'%1$s\' के लिए कोई अर्थ नहीं मिला</string>
+    <string name="meaning_of_prefix">अर्थ: %1$s</string>
+
+</resources>

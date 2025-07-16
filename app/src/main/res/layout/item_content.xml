@@ -1,0 +1,39 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/itemLayout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layoutDirection="locale"
+    android:gravity="center_vertical|start"
+    android:padding="8dp">
+
+    <!-- 🔢 نمبر -->
+    <TextView
+        android:id="@+id/itemNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="۱"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:textDirection="locale"
+        android:gravity="center"
+        android:layout_gravity="center_vertical"
+        android:layout_marginStart="4dp"
+        android:layout_marginEnd="4dp"/>
+
+    <!-- 📜 ٹائٹل -->
+    <TextView
+        android:id="@+id/itemTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="شعر"
+        android:textSize="18dp"
+        android:textColor="@android:color/black"
+        android:textDirection="locale"
+        android:textAlignment="viewStart"
+        android:gravity="center_vertical"
+        android:layout_gravity="center_vertical"
+        tools:ignore="RtlCompat" />
+</LinearLayout>

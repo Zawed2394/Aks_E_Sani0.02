@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/side_nave_bar"
+    android:padding="25dp"
+    android:gravity="center">
+
+    <ImageView
+        android:id="@+id/nav_header_image"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/nooruddin1"
+        android:contentDescription="@string/nav_header_image_desc" />
+
+    <TextView
+        android:id="@+id/nav_header_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/nav_header_nooruddin"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:layout_marginTop="8dp" />
+
+    <TextView
+        android:id="@+id/nav_header_subtitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/app_name"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:layout_marginTop="4dp" />
+</LinearLayout>

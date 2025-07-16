@@ -1,0 +1,759 @@
+{
+  "sections": [
+    {
+      "id": "section_hamd",
+      "heading": "حمد",
+      "items": [
+        {
+          "id": "hamd_1",
+          "title": "(حمد باری تعالیٰ) وہ یکتا ہے یگانہ ہے وہ ہر عالم کا بانی ہے",
+          "word_meanings": [
+            {
+              "word": "یکتا",
+              "meanings": {
+                "urdu": "ایک، واحد، بےمثال",
+                "hindi": "एक, अद्वितीय, बेमिसाल",
+                "english": "One, unique, unparalleled"
+              },
+              "mapping": {
+                "urdu": "یکتا",
+                "hindi": "यकता",
+                "english": "yaktaa"
+              }
+            },
+            {
+              "word": "یگانہ",
+              "meanings": {
+                "urdu": "منفرد، اکیلا",
+                "hindi": "निराला, अकेला",
+                "english": "Unique, singular"
+              },
+              "mapping": {
+                "urdu": "یگانہ",
+                "hindi": "यगाना",
+                "english": "yagaana"
+              }
+            },
+            {
+              "word": "عالم",
+              "meanings": {
+                "urdu": "جهان، کائنات",
+                "hindi": "विश्व, सृष्टि",
+                "english": "World, universe"
+              },
+              "mapping": {
+                "urdu": "عالم",
+                "hindi": "आलम",
+                "english": "aalam"
+              }
+            },
+            {
+              "word": "بانی",
+              "meanings": {
+                "urdu": "بنانے والا، موجد",
+                "hindi": "निर्माता, संस्थापक",
+                "english": "Creator, founder"
+              },
+              "mapping": {
+                "urdu": "بانی",
+                "hindi": "बानी",
+                "english": "baani"
+              }
+            },
+            {
+              "word": "ہمسر",
+              "meanings": {
+                "urdu": "ہم پلہ، برابر",
+                "hindi": "समान, बराबर",
+                "english": "Equal, peer"
+              },
+              "mapping": {
+                "urdu": "ہمسر",
+                "hindi": "हमसर",
+                "english": "humsar"
+              }
+            },
+            {
+              "word": "ثانی",
+              "meanings": {
+                "urdu": "دوسرا، ہم مثل",
+                "hindi": "दूसरा, समान",
+                "english": "Second, similar"
+              },
+              "mapping": {
+                "urdu": "ثانی",
+                "hindi": "सानी",
+                "english": "saani"
+              }
+            },
+            {
+              "word": "اجازت",
+              "meanings": {
+                "urdu": "اجازت، منظوری",
+                "hindi": "अनुमति, स्वीकृति",
+                "english": "Permission, approval"
+              },
+              "mapping": {
+                "urdu": "اجازت",
+                "hindi": "इजाज़त",
+                "english": "ijazat"
+              }
+            },
+            {
+              "word": "پتہ",
+              "meanings": {
+                "urdu": "پتہ، برگ",
+                "hindi": "पत्ता, पर्ण",
+                "english": "Leaf, page"
+              },
+              "mapping": {
+                "urdu": "پتہ",
+                "hindi": "पत्ता",
+                "english": "patta"
+              }
+            },
+            {
+              "word": "حکمرانی",
+              "meanings": {
+                "urdu": "حکومت، اقتدار",
+                "hindi": "शासन, प्रभुत्व",
+                "english": "Rule, sovereignty"
+              },
+              "mapping": {
+                "urdu": "حکمرانی",
+                "hindi": "हुकूमत",
+                "english": "hukmrani"
+              }
+            },
+            {
+              "word": "امبر",
+              "meanings": {
+                "urdu": "آسمان، فلک",
+                "hindi": "आकाश, नभ",
+                "english": "Sky, heaven"
+              },
+              "mapping": {
+                "urdu": "امبر",
+                "hindi": "अंबर",
+                "english": "ambar"
+              }
+            },
+            {
+              "word": "حیران",
+              "meanings": {
+                "urdu": "حیرت زدہ، پریشان",
+                "hindi": "हैरान, परेशान",
+                "english": "Amazed, perplexed"
+              },
+              "mapping": {
+                "urdu": "حیران",
+                "hindi": "हैरान",
+                "english": "hairaan"
+              }
+            },
+            {
+              "word": "خلا",
+              "meanings": {
+                "urdu": "خالی جگہ، فضا",
+                "hindi": "शून्य, अंतरिक्ष",
+                "english": "Space, void"
+              },
+              "mapping": {
+                "urdu": "خلا",
+                "hindi": "ख़ला",
+                "english": "khala"
+              }
+            },
+            {
+              "word": "گھٹا",
+              "meanings": {
+                "urdu": "بادل، ابر",
+                "hindi": "बादल, मेघ",
+                "english": "Cloud, mist"
+              },
+              "mapping": {
+                "urdu": "گھٹا",
+                "hindi": "घटा",
+                "english": "ghata"
+              }
+            },
+            {
+              "word": "شاداب",
+              "meanings": {
+                "urdu": "تر و تازہ، سرسبز",
+                "hindi": "हरी-भरी, ताज़ा",
+                "english": "Lush, vibrant"
+              },
+              "mapping": {
+                "urdu": "شاداب",
+                "hindi": "शादाब",
+                "english": "shaadaab"
+              }
+            },
+            {
+              "word": "صحرا",
+              "meanings": {
+                "urdu": "ریگستان، بیابان",
+                "hindi": "मरुस्थल, रेगिस्तान",
+                "english": "Desert, wilderness"
+              },
+              "mapping": {
+                "urdu": "صحرا",
+                "hindi": "मरुस्थल",
+                "english": "sehra"
+              }
+            },
+            {
+              "word": "نظارہ",
+              "meanings": {
+                "urdu": "منظر، تماشا",
+                "hindi": "नज़ारा, दृश्य",
+                "english": "View, spectacle"
+              },
+              "mapping": {
+                "urdu": "نظارہ",
+                "hindi": "नज़ारा",
+                "english": "nazaara"
+              }
+            },
+            {
+              "word": "دلکش",
+              "meanings": {
+                "urdu": "دلفریب، خوبصورت",
+                "hindi": "आकर्षक, सुंदर",
+                "english": "Charming, attractive"
+              },
+              "mapping": {
+                "urdu": "دلکش",
+                "hindi": "दिलकश",
+                "english": "dilkash"
+              }
+            },
+            {
+              "word": "روانی",
+              "meanings": {
+                "urdu": "بہاؤ، سلاست",
+                "hindi": "प्रवाह, सरलता",
+                "english": "Flow, fluency"
+              },
+              "mapping": {
+                "urdu": "روانی",
+                "hindi": "रवानी",
+                "english": "rawaani"
+              }
+            },
+            {
+              "word": "خالق",
+              "meanings": {
+                "urdu": "پیدا کرنے والا، رب",
+                "hindi": "सृष्टिकर्ता, ईश्वर",
+                "english": "Creator, God"
+              },
+              "mapping": {
+                "urdu": "خالق",
+                "hindi": "ख़ालिक",
+                "english": "khaaliq"
+              }
+            },
+            {
+              "word": "مالک",
+              "meanings": {
+                "urdu": "مالک، رب",
+                "hindi": "स्वामी, प्रभु",
+                "english": "Owner, Lord"
+              },
+              "mapping": {
+                "urdu": "مالک",
+                "hindi": "मालिक",
+                "english": "maalik"
+              }
+            },
+            {
+              "word": "داتا",
+              "meanings": {
+                "urdu": "دینے والا، رازق",
+                "hindi": "दाता, प्रदानकर्ता",
+                "english": "Giver, provider"
+              },
+              "mapping": {
+                "urdu": "داتا",
+                "hindi": "दाता",
+                "english": "daata"
+              }
+            },
+            {
+              "word": "پاسبانی",
+              "meanings": {
+                "urdu": "نگہبانی، حفاظت",
+                "hindi": "रक्षा, संरक्षण",
+                "english": "Guardianship, protection"
+              },
+              "mapping": {
+                "urdu": "پاسبانی",
+                "hindi": "पासबानी",
+                "english": "paasbaani"
+              }
+            }
+          ]
+        },
+        {
+          "id": "hamd_2",
+          "title": "تیری قدرت ڈالی ڈالی (حمدیہ نظم)",
+          "word_meanings": [
+            {
+              "word": "قدرت",
+              "meanings": {
+                "urdu": "طاقت، صلاحیت",
+                "hindi": "शक्ति, सामर्थ्य",
+                "english": "Power, ability"
+              },
+              "mapping": {
+                "urdu": "قدرت",
+                "hindi": "क़ुदरत",
+                "english": "qudrat"
+              }
+            },
+            {
+              "word": "ڈالی",
+              "meanings": {
+                "urdu": "شاخ، ٹہنی",
+                "hindi": "डाली, टहनी",
+                "english": "Branch, twig"
+              },
+              "mapping": {
+                "urdu": "ڈالی",
+                "hindi": "डाली",
+                "english": "daali"
+              }
+            },
+            {
+              "word": "بالی",
+              "meanings": {
+                "urdu": "کنگن، بالیاں (شاعری میں ممکنہ طور پر کلی، پھول)",
+                "hindi": "कंगन, बाली (काव्य में संभवतः कली, फूल)",
+                "english": "Bangle, earring (poetically possibly bud, flower)"
+              },
+              "mapping": {
+                "urdu": "بالی",
+                "hindi": "बाली",
+                "english": "baali"
+              }
+            },
+            {
+              "word": "دم",
+              "meanings": {
+                "urdu": "سانس، طاقت",
+                "hindi": "साँस, शक्ति",
+                "english": "Breath, strength"
+              },
+              "mapping": {
+                "urdu": "دم",
+                "hindi": "दम",
+                "english": "dam"
+              }
+            },
+            {
+              "word": "روشن",
+              "meanings": {
+                "urdu": "چمکدار، منور",
+                "hindi": "चमकीला, प्रकाशित",
+                "english": "Bright, illuminated"
+              },
+              "mapping": {
+                "urdu": "روشن",
+                "hindi": "रोशन",
+                "english": "roshan"
+              }
+            },
+            {
+              "word": "گلشن",
+              "meanings": {
+                "urdu": "باغ، پھلواری",
+                "hindi": "बाग, फुलवारी",
+                "english": "Garden, orchard"
+              },
+              "mapping": {
+                "urdu": "گلشن",
+                "hindi": "गुलशन",
+                "english": "gulshan"
+              }
+            },
+            {
+              "word": "موج",
+              "meanings": {
+                "urdu": "لہر، موج",
+                "hindi": "लहर, तरंग",
+                "english": "Wave, surge"
+              },
+              "mapping": {
+                "urdu": "موج",
+                "hindi": "लहर",
+                "english": "mauj"
+              }
+            },
+            {
+              "word": "جلوہ",
+              "meanings": {
+                "urdu": "رونق، شان",
+                "hindi": "शोभा, वैभव",
+                "english": "Glory, splendor"
+              },
+              "mapping": {
+                "urdu": "جلوہ",
+                "hindi": "जलवा",
+                "english": "jalwa"
+              }
+            },
+            {
+              "word": "زرہ",
+              "meanings": {
+                "urdu": "ذرہ، کن",
+                "hindi": "कण, रेत",
+                "english": "Particle, speck"
+              },
+              "mapping": {
+                "urdu": "زرہ",
+                "hindi": "ज़र्रा",
+                "english": "zarra"
+              }
+            },
+            {
+              "word": "دریا",
+              "meanings": {
+                "urdu": "دریا، ندی",
+                "hindi": "नदी, सरिता",
+                "english": "River, stream"
+              },
+              "mapping": {
+                "urdu": "دریا",
+                "hindi": "दरिया",
+                "english": "darya"
+              }
+            },
+            {
+              "word": "سنگ",
+              "meanings": {
+                "urdu": "پتھر، چٹان",
+                "hindi": "पत्थर, चट्टान",
+                "english": "Stone, rock"
+              },
+              "mapping": {
+                "urdu": "سنگ",
+                "hindi": "पथ्थर",
+                "english": "sang"
+              }
+            },
+            {
+              "word": "کیڑے",
+              "meanings": {
+                "urdu": "کیڑے، حشرات",
+                "hindi": "कीड़े, कीट",
+                "english": "Insects, bugs"
+              },
+              "mapping": {
+                "urdu": "کیڑے",
+                "hindi": "कीड़े",
+                "english": "keere"
+              }
+            },
+            {
+              "word": "روزی",
+              "meanings": {
+                "urdu": "رزق، روزی",
+                "hindi": "जीविका, रोज़ी",
+                "english": "Sustenance, livelihood"
+              },
+              "mapping": {
+                "urdu": "روزی",
+                "hindi": "रोज़ी",
+                "english": "rozi"
+              }
+            },
+            {
+              "word": "اول",
+              "meanings": {
+                "urdu": "پہلا، ابتدائی",
+                "hindi": "पहला, प्रारंभिक",
+                "english": "First, initial"
+              },
+              "mapping": {
+                "urdu": "اول",
+                "hindi": "औल",
+                "english": "awwal"
+              }
+            },
+            {
+              "word": "آخر",
+              "meanings": {
+                "urdu": "آخری، انتہائی",
+                "hindi": "अंतिम, आखिरी",
+                "english": "Last, final"
+              },
+              "mapping": {
+                "urdu": "آخر",
+                "hindi": "आख़िर",
+                "english": "aakhir"
+              }
+            },
+            {
+              "word": "باطن",
+              "meanings": {
+                "urdu": "اندرونی، پوشیدہ",
+                "hindi": "आंतरिक, छिपा",
+                "english": "Inner, hidden"
+              },
+              "mapping": {
+                "urdu": "باطن",
+                "hindi": "बातन",
+                "english": "baatin"
+              }
+            },
+            {
+              "word": "ظاہر",
+              "meanings": {
+                "urdu": "ظاہری، آشکار",
+                "hindi": "प्रकट, स्पष्ट",
+                "english": "Apparent, visible"
+              },
+              "mapping": {
+                "urdu": "ظاہر",
+                "hindi": "ज़ाहिर",
+                "english": "zaahir"
+              }
+            },
+            {
+              "word": "ثناء",
+              "meanings": {
+                "urdu": "تعریف، حمد",
+                "hindi": "प्रशंसा, स्तुति",
+                "english": "Praise, glory"
+              },
+              "mapping": {
+                "urdu": "ثناء",
+                "hindi": "सँयाद",
+                "english": "sana"
+              }
+            },
+            {
+              "word": "قاصر",
+              "meanings": {
+                "urdu": "کمزور، ناکافی",
+                "hindi": "असमर्थ, अपर्याप्त",
+                "english": "Unable, insufficient"
+              },
+              "mapping": {
+                "urdu": "قاصر",
+                "hindi": "क़ासिर",
+                "english": "qaasir"
+              }
+            },
+            {
+              "word": "ادنیٰ",
+              "meanings": {
+                "urdu": "کم تر، معمولی",
+                "hindi": "निम्न, साधारण",
+                "english": "Lowly, ordinary"
+              },
+              "mapping": {
+                "urdu": "ادنیٰ",
+                "hindi": "अदना",
+                "english": "adna"
+              }
+            },
+            {
+              "word": "اعلیٰ",
+              "meanings": {
+                "urdu": "اعلیٰ، برتر",
+                "hindi": "उच्च, श्रेष्ठ",
+                "english": "High, superior"
+              },
+              "mapping": {
+                "urdu": "اعلیٰ",
+                "hindi": "अएल",
+                "english": "aala"
+              }
+            },
+            {
+              "word": "ماہر",
+              "meanings": {
+                "urdu": "ماہر، ہنرمند",
+                "hindi": "निपुण, कुशल",
+                "english": "Expert, skilled"
+              },
+              "mapping": {
+                "urdu": "ماہر",
+                "hindi": "माहिर",
+                "english": "maahir"
+              }
+            },
+            {
+              "word": "شاعر",
+              "meanings": {
+                "urdu": "شاعر، کوی",
+                "hindi": "कवि, शायर",
+                "english": "Poet"
+              },
+              "mapping": {
+                "urdu": "شاعر",
+                "hindi": "शायर",
+                "english": "shaa'ir"
+              }
+            },
+            {
+              "word": "دھڑکن",
+              "meanings": {
+                "urdu": "دھڑکن، نبض",
+                "hindi": "धड़कन, नाड़ी",
+                "english": "Heartbeat, pulse"
+              },
+              "mapping": {
+                "urdu": "دھڑکن",
+                "hindi": "धड़कन",
+                "english": "dhadkan"
+              }
+            },
+            {
+              "word": "رفتار",
+              "meanings": {
+                "urdu": "رفتار، چال",
+                "hindi": "गति, रफ़्तार",
+                "english": "Speed, pace"
+              },
+              "mapping": {
+                "urdu": "رفتار",
+                "hindi": "रफ़्तार",
+                "english": "raftaar"
+              }
+            },
+            {
+              "word": "گفتار",
+              "meanings": {
+                "urdu": "بات چیت، گفتگو",
+                "hindi": "बातचीत, संभाषण",
+                "english": "Speech, conversation"
+              },
+              "mapping": {
+                "urdu": "گفتار",
+                "hindi": "गुफ़्तार",
+                "english": "guftaar"
+              }
+            },
+            {
+              "word": "فانی",
+              "meanings": {
+                "urdu": "عارضی، نابود ہونے والا",
+                "hindi": "नश्वर, क्षणिक",
+                "english": "Mortal, perishable"
+              },
+              "mapping": {
+                "urdu": "فانی",
+                "hindi": "फानी",
+                "english": "faani"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "section_naat",
+      "heading": "نعت",
+      "items": [
+        {
+          "id": "naat_1",
+          "title": "(نعتِ پاکﷺ)محبوب جس کو ہوگئی سنت رسولؐ کی",
+          "word_meanings": "Placeholder: Word meanings for naat_1 not provided as per request."
+        },
+        {
+          "id": "naat_2",
+          "title": "(نعتِ پاکﷺ)جس کا بھی محمد سے واسطہ نہیں ہوگا",
+          "word_meanings": "Placeholder: Word meanings for naat_2 not provided as per request."
+        }
+      ]
+    },
+    {
+      "id": "section_manajat",
+      "heading": "مناجات",
+      "items": [
+        {
+          "id": "manajat_1",
+          "title": "اک بار مجھے بھی تو طیبہ کو دکھا دے رب",
+          "word_meanings": "Placeholder: Word meanings for manajat_1 not provided as per request."
+        }
+      ]
+    },
+    {
+      "id": "section_man_ki_yad",
+      "heading": "ماں کی یاد میں",
+      "items": [
+        {
+          "id": "man_ki_yad_1",
+          "title": "اس دنیا میں تُو نہیں زندہ، اب تنہا گھبراؤں  ماں",
+          "word_meanings": "Placeholder: Word meanings for man_ki_yad_1 not provided as per request."
+        }
+      ]
+    },
+    {
+      "id": "section_ghazals",
+      "heading": "غزلیں",
+      "items": [
+        {
+          "id": "ghazal_1",
+          "title": "رہزنی آ نے لگی جب رہبروں کے درمیاں",
+          "word_meanings": "Placeholder: Word meanings for ghazal_1 not provided as per request."
+        },
+        {
+          "id": "ghazal_2",
+          "title": "اگرچہ آرزو ہو یہ کہ خود کو جاوداں کر لیں",
+          "word_meanings": "Placeholder: Word meanings for ghazal_2 not provided as per request."
+        },
+        {
+          "id": "ghazal_3",
+          "title": "جن کا پرنور عبادت سے جگر ہوتا ہے",
+          "word_meanings": "Placeholder: Word meanings for ghazal_3 not provided as per request."
+        },
+        {
+          "id": "ghazal_4",
+          "title": "اسی کے عشق کے سانچے میں ڈھل رہا ہوں میں",
+          "word_meanings": "Placeholder: Word meanings for ghazal_4 not provided as per request."
+        },
+        {
+          "id": "ghazal_5",
+          "title": "روز ہی حادثہ بن بن کے ملا کرتی ہے",
+          "word_meanings": "Placeholder: Word meanings for ghazal_5 not provided as per request."
+        },
+        {
+          "id": "ghazal_133",
+          "title": "تجھ کو رسوا نہ کروں گا میں یہ سر جانے تک",
+          "word_meanings": "Placeholder: Word meanings for ghazal_133 not provided as per request."
+        },
+        {
+          "id": "ghazal_134",
+          "title": "تیری یادوں میں لپٹی ہوئی تر ہوا",
+          "word_meanings": "Placeholder: Word meanings for ghazal_134 not provided as per request."
+        }
+      ]
+    },
+    {
+      "id": "section_qita",
+      "heading": "قطعہ",
+      "items": [
+        {
+          "id": "qita_1",
+          "title": "عہد حاضر کا ایسا سخنور ہے تو",
+          "word_meanings": "Placeholder: Word meanings for qita_1 not provided as per request."
+        },
+        {
+          "id": "qita_2",
+          "title": "ہر ایک شعر, غزل کو, ہر اک کہانی کو",
+          "word_meanings": "Placeholder: Word meanings for qita_2 not provided as per request."
+        },
+        {
+          "id": "qita_3",
+          "title": "پورا دل کا ہوا ارمان یارو",
+          "word_meanings": "Placeholder: Word meanings for qita_3 not provided as per request."
+        }
+      ]
+    }
+  ]
+}

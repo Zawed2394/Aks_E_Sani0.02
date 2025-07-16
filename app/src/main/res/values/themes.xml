@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Sani" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+    </style>
+
+    <style name="NavMenuStyle" parent="Widget.Material3.NavigationView">
+        <item name="itemIconPadding">30dp</item> <!-- Icon aur text ke beech space -->
+        <item name="itemHorizontalPadding">16dp</item> <!-- Item ka overall horizontal padding -->
+        <item name="itemTextAppearance">@style/NavMenuTextStyle</item>
+    </style>
+
+    <style name="NavMenuTextStyle" parent="TextAppearance.Material3.BodyMedium">
+        <item name="android:textSize">16sp</item> <!-- Text size adjust karo agar chaho -->
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>

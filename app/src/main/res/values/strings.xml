@@ -1,0 +1,197 @@
+<resources>
+    <string name="app_name">Aks-e-Sani</string>
+    <string name="button_fehrist">Fehrist</string>
+    <string name="button_tabsira">Tabsira</string>
+    <string name="button_introduction">Taaruf</string>
+    <string name="button_intesab">Intesab</string>
+    <string name="button_search">Talaash</string>
+    <string name="button_app">App</string>
+    <string name="language_change">Change Language</string>
+    <string name="language_hindi">Hindi</string>
+    <string name="language_english">English</string>
+    <string name="language_urdu">Urdu</string>
+    <string name="facebook_page">Facebook Page</string>
+    <string name="instagram_pages">Instagram Pages</string>
+    <string name="youtube_channel">YouTube Channel</string>
+    <string name="app_share_link">Share App</string>
+    <string name="open_drawer">Open Navigation Drawer</string>
+    <string name="close_drawer">Close Navigation Drawer</string>
+    <string name="nav_header_nooruddin">Nooruddin Sani</string>
+    <string name="nav_header_image_desc">Header Image</string>
+    <string name="share_via">Share Via</string>
+    <string name="content_desc_main_image">Central Image of Nooruddin Sani</string>
+    <string name="fehrist_title">Fehrist</string>
+    <string name="tabsira_title">Tabsira</string>
+    <string name="introduction_title">Taaruf</string>
+    <string name="intesab_title">Intesab</string>
+    <string name="search_title">Talaash</string>
+    <string name="app_title">App Information</string>
+
+    <!-- Section headings -->
+    <string name="section_hamd">Hamd</string>
+    <string name="section_naat">Naat</string>
+    <string name="section_manajat">Manajat</string>
+    <string name="section_man_ki_yad">Maan ki Yad Men</string>
+    <string name="section_ghazals">Ghazals</string>
+    <string name="section_qita">Qita</string>
+
+    <!-- Hamd -->
+    <string name="hamd_1">Woh yakta hai yagana hai woh har aalam ka bani hai</string>
+    <string name="hamd_2">Teri qudrat dali dali</string>
+
+    <!-- Naat -->
+    <string name="naat_1">Mahboob jis ko ho gai sunnat Rasool ki</string>
+    <string name="naat_2">Jis ka bhi Muhammad se wasta nahi hoga</string>
+
+    <!-- Manajat -->
+    <string name="manajat_1">Ek baar mujhe bhi to Tayba ko dikha de Rab</string>
+
+    <!-- Man ki Yad Men -->
+    <string name="man_ki_yad_1">Is duniya mein tu nahi zinda, ab tanha ghabraun Maa</string>
+
+    <!-- Ghazals -->
+    <string name="ghazal_1">Rahzani aane lagi jab rahbaron ke darmiyan</string>
+    <string name="ghazal_2">Agarche aarzoo ho yeh ke khud ko jawidaan kar len</string>
+    <string name="ghazal_3">Jin ka parnoor ibadat se jigar hota hai</string>
+    <string name="ghazal_4">Usi ke ishq ke saanche mein dhal raha hoon main</string>
+    <string name="ghazal_5">Roz hi hadisa ban ban ke mila karti hai</string>
+    <string name="ghazal_6">Aankhon se badgumani ka chashma utaar dekh</string>
+    <string name="ghazal_7">Gham ke saagar se tu nikaal mujhe</string>
+    <string name="ghazal_8">Darindon ki himayat ho rahi hai</string>
+    <string name="ghazal_9">Jab se mujhko tujh se ulfat ho gayi</string>
+    <string name="ghazal_10">Ishq mein jaan nisaar kaun kare</string>
+    <string name="ghazal_11">Mujh ko hasrat hai use dil ke makaan tak dekhoon</string>
+    <string name="ghazal_12">Kitna karte ho pyar aaj kaho</string>
+    <string name="ghazal_13">Jo chhoda tha usi par aa gaya na</string>
+    <string name="ghazal_14">Zameen ke saath amber bolta hai</string>
+    <string name="ghazal_15">Us ke siwa kisi se mohabbat nahi hui</string>
+    <string name="ghazal_16">Aqal hairaan hai meri aaj woh kya kehte hain</string>
+    <string name="ghazal_17">Jo hua so hua amaan chhodo</string>
+    <string name="ghazal_18">Ranj o gham aur museebat ke siwa</string>
+    <string name="ghazal_19">Paagal koi majnoon koi deewana kahe hai</string>
+    <string name="ghazal_20">Hausla misl-e-paighambar rakhna</string>
+    <string name="ghazal_21">Kar ke upkaar zara dekh le dukhiyari par</string>
+    <string name="ghazal_22">Kya kahoon us ne kya diya phir se</string>
+    <string name="ghazal_23">Dam akhad akhad jaaye zindagi bikhar jaaye</string>
+    <string name="ghazal_24">Ulfat mein dil farefta banaye hue to hain</string>
+    <string name="ghazal_25">Paas aa aye mere yaar thoda sa aur</string>
+    <string name="ghazal_26">Kitna bhookha hai yeh zamana bhi</string>
+    <string name="ghazal_27">Hijr mein tumhara dil kaise yaar lagta hai</string>
+    <string name="ghazal_28">Kahoon kya ek teri dosti ko</string>
+    <string name="ghazal_29">Us ko paana meri hasrat hi sahi</string>
+    <string name="ghazal_30">Yeh karishma hua aap hi ke sabab</string>
+    <string name="ghazal_31">Mar jaana haq ki khatir dil se qabool hai</string>
+    <string name="ghazal_32">Pur sukoon gaon nagar the pur sukoon bazaar tha</string>
+    <string name="ghazal_33">Un ka hi aitbaar karte rahe</string>
+    <string name="ghazal_34">Mujhe farq kuch nahi padta hai, chahiye mujh se koi khafa rahe</string>
+    <string name="ghazal_35">Teri nafrat ko bhi maine kab nafrat se dekha hai</string>
+    <string name="ghazal_36">Tum se wada hai is deewane ka</string>
+    <string name="ghazal_37">Guzra hai kaisa saniha dil khoob jaane hai</string>
+    <string name="ghazal_38">Sahmi hui hai aaj fiza ghut raha hai dam</string>
+    <string name="ghazal_39">Jafa to kar ya wafa ab to teri marzi hai</string>
+    <string name="ghazal_40">Raah par dushmanon ki woh chalne lage</string>
+    <string name="ghazal_41">Teri aankhon mein jo kaajal nahi hai</string>
+    <string name="ghazal_42">Ab rehai ya zamanat ho na ho</string>
+    <string name="ghazal_43">Uski yaadon ke mein lashkar se ghira rehta hoon</string>
+    <string name="ghazal_44">Ek nazar dekh lo aa kar tum ho</string>
+    <string name="ghazal_45">Koi shikwa nahi zamane se</string>
+    <string name="ghazal_46">Kaam aisa mahan kar baitha</string>
+    <string name="ghazal_47">Kisi se dil ko lagane ki kya zaroorat thi</string>
+    <string name="ghazal_48">Aap se kya juda hua hai dil</string>
+    <string name="ghazal_49">Yaar hansne hansane ka mahaul ho</string>
+    <string name="ghazal_50">Aap jab toroge apni khamoshi ka silsila</string>
+    <string name="ghazal_51">Main hoon meetha sa ek samandar dekh</string>
+    <string name="ghazal_52">Wafa o pyar ki baatein</string>
+    <string name="ghazal_53">Le to saari ki saari duniya rakh</string>
+    <string name="ghazal_54">Tanha tanha chalna hoga kab tak aakhir hum ko aur</string>
+    <string name="ghazal_55">Kahin pe phool kahin dil bichha diya maine</string>
+    <string name="ghazal_56">Zindagi thi meri bas wahi zindagi</string>
+    <string name="ghazal_57">Saamne bas mere aaina reh gaya</string>
+    <string name="ghazal_58">Mujh ko woh kya mile zindagi mil gayi</string>
+    <string name="ghazal_59">Kar liya tum ne irada yeh kabhi socha bhi hai</string>
+    <string name="ghazal_60">Woh jis ne dekha ho bas roshni ko</string>
+    <string name="ghazal_61">Sada-e-haq daba dega abe ja</string>
+    <string name="ghazal_62">Jaagna aur jagate rehna</string>
+    <string name="ghazal_63">Ko bako yoon jo bhatakta hoon main hardam harpal</string>
+    <string name="ghazal_64">Tu hai qareeb mere aur justaju karein kya</string>
+    <string name="ghazal_65">Kaise bayaan karoon main ke kya kya nazar mein hai</string>
+    <string name="ghazal_66">Zindagani ki dagar achhi nahi</string>
+    <string name="ghazal_67">Adu ki bheed dekho na adu ka qafila dekho</string>
+    <string name="ghazal_68">Jo danishmand hote hain kabhi aisa nahi karte</string>
+    <string name="ghazal_69">Yaad un ki dila ke aakhir kaar</string>
+    <string name="ghazal_70">Woh jo kahe wahi karein aise nahi hain hum</string>
+    <string name="ghazal_71">Buzurgon ke jo qadmon mein kabhi baitha nahi hoga</string>
+    <string name="ghazal_72">Dil se jab apne buzurgon ki dua paoge</string>
+    <string name="ghazal_73">Salaamat jab talak imaan hai aisa nahi hoga</string>
+    <string name="ghazal_74">Qalb se qalb ka jab rabita ho jayega</string>
+    <string name="ghazal_75">Zindagani ke safar mein hadsa kuchh kam na tha</string>
+    <string name="ghazal_76">Tumhara saath jab hoga to phir aisa nahi hoga</string>
+    <string name="ghazal_77">Jeene ke liye hargiz aisa nahi karte hain</string>
+    <string name="ghazal_78">Yaaro mujh ko aksar aisa, kyun lagta hai soch raha hoon</string>
+    <string name="ghazal_79">Kya hai tune dikhawa, dikhawa niklega</string>
+    <string name="ghazal_80">Tamaam umr jo karta raha hai kaam ghalat</string>
+    <string name="ghazal_81">Ishq kar ke tune aye dil khaak achha kar liya</string>
+    <string name="ghazal_82">Na poochho hum se tum kya kya hum apna chhod dete hain</string>
+    <string name="ghazal_83">Haaye kaisi apni qismat ho gayi</string>
+    <string name="ghazal_84">Us ki tarah hamari to aadat na hone ki</string>
+    <string name="ghazal_85">Aman ke qaatil aman ke dushman, ab to teri khair nahi</string>
+    <string name="ghazal_86">Aaj tak un ki mohabbat se yoon bezaar hain hum</string>
+    <string name="ghazal_87">Tere gulnar chehre ki ziya kuchh aur kehti hai</string>
+    <string name="ghazal_88">Yeh meri aankh jo parnam nahi hai</string>
+    <string name="ghazal_89">Khuloos o wafa aur chahat agar ho</string>
+    <string name="ghazal_90">Na poochh mujh ko kya mila, mazaq hi mazaq mein</string>
+    <string name="ghazal_91">Jo idhar haal hai woh udhar bhi to ho</string>
+    <string name="ghazal_92">Mere jazbaat zinda hain abhi armaan baqi hai</string>
+    <string name="ghazal_93">Rahegi hamesha hi rafat watan ki</string>
+    <string name="ghazal_94">Na bhoologe shaheedon ki shahadat ko qasam khao</string>
+    <string name="ghazal_95">Kaise aslaf ka rasta chhod den</string>
+    <string name="ghazal_96">Yeh maanoge ek din kaha dekh lena</string>
+    <string name="ghazal_97">Ab siwa maut ke koi chara nahi</string>
+    <string name="ghazal_98">Zindagani ka bhi mausam suhana hua</string>
+    <string name="ghazal_99">Kisi ke ghar ke liye aur kisi ki jaan ke liye</string>
+    <string name="ghazal_100">Dosto shikwe gile ko bhool jaien eid mein</string>
+    <string name="ghazal_101">Tamasha dekhne walo tumhein us ki khabar kya hai</string>
+    <string name="ghazal_102">Yaar hum se kya humare kho gaye</string>
+    <string name="ghazal_103">Aaina tu hamein mat dikhana kabhi</string>
+    <string name="ghazal_104">Woh jab se mere paas aane lage hain</string>
+    <string name="ghazal_105">Jise nazar mein jigar mein basa ke rakhte hain</string>
+    <string name="ghazal_106">Yeh mere paas aye logo zara sa kya hua paisa</string>
+    <string name="ghazal_107">Ban ke mausam bahaar aaye ho</string>
+    <string name="ghazal_108">Ishq karne walon mein faasla nahi hota</string>
+    <string name="ghazal_109">Tareekiyon ko yoon bhi mitana pada mujhe</string>
+    <string name="ghazal_110">Mujh ko chahat mein kya hua teri</string>
+    <string name="ghazal_111">Khud ko itna bhi mat uchhala kar</string>
+    <string name="ghazal_112">Sochiye ga zara yeh khuda ke liye</string>
+    <string name="ghazal_113">Jahan tere liye hai na tu jahan ke liye</string>
+    <string name="ghazal_114">Hujre ke paas hai na woh mimbar ke aas paas</string>
+    <string name="ghazal_115">Khuda ke samne ek din sabhi ka faisla hoga</string>
+    <string name="ghazal_116">Rukh apna pher ke mujh se jo ja raha hai ab</string>
+    <string name="ghazal_117">Tujh se main dar jaaun kahe ko</string>
+    <string name="ghazal_118">Daur-e-hazir mein aisi khata kis liye</string>
+    <string name="ghazal_119">Kya ajab shay yeh pyar hai sahib</string>
+    <string name="ghazal_120">Rote hue ko yaar hansana, yeh islam sikhata hai</string>
+    <string name="ghazal_121">Chiragh-e-mohabbat yoon jalne ka na hai</string>
+    <string name="ghazal_122">Bahut aasaan hai ghar ko jalana</string>
+    <string name="ghazal_123">Main yahan dhoondta hi raha aur kuchh</string>
+    <string name="ghazal_124">Humari tarah wafa tum bhi kar sakoge kya</string>
+    <string name="ghazal_125">Tera deewana bhala aur kidhar jaaye ga</string>
+    <string name="ghazal_126">Khumari us aankh ki teekhi sharab ka na gaya</string>
+    <string name="ghazal_127">Tum jo tanhai mein aa baithe ho</string>
+    <string name="ghazal_128">Dil mein tha us ke aur na us ke jigar mein tha</string>
+    <string name="ghazal_129">Soch kar yeh mera dil dahlne laga</string>
+    <string name="ghazal_130">Fitrat nahi badalti hai insaan kya kare</string>
+    <string name="ghazal_131">Dil mera saaz-e-mohabbat pe chahak leta hai</string>
+    <string name="ghazal_132">Be wafa ko ba wafa kahe kaho ho</string>
+    <string name="ghazal_133">Tujh ko ruswa na karoon ga main yeh sar jaane tak</string>
+    <string name="ghazal_134">Teri yaadon mein lipti hui tar hawa</string>
+
+    <!-- Qita -->
+    <string name="qita_1">Ehad-e-hazir ka aisa sukhanwar hai tu</string>
+    <string name="qita_2">Har ek sher, ghazal ko, har ek kahani ko</string>
+    <string name="qita_3">Pura dil ka hua armaan yaaro</string>
+
+    <!-- Added String -->
+    <string name="no_meanings_found">No meanings found for \'%1$s\'</string>
+    <string name="meaning_of_prefix">Meaning of: %1$s</string>
+
+</resources>
