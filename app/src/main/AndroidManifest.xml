@@ -25,6 +25,8 @@
         <!-- ✅ Fehrist Activity (add this) -->
         <activity android:name=".FehristActivity" />
         <activity android:name=".PoemDetailActivity" />
+        <activity android:name=".IntisabActivity"/>
+        <activity android:name=".IntroductionActivity"/>
 
     </application>
 </manifest>

@@ -9,6 +9,19 @@
           "title": "(حمد باری تعالیٰ) وہ یکتا ہے یگانہ ہے وہ ہر عالم کا بانی ہے",
           "word_meanings": [
             {
+              "word": "وہ",
+              "meanings": {
+                "urdu": "وہ، اس",
+                "hindi": "वह, उस",
+                "english": "He, that"
+              },
+              "mapping": {
+                "urdu": "وہ",
+                "hindi": "वह",
+                "english": "woh"
+              }
+            },
+            {
               "word": "یکتا",
               "meanings": {
                 "urdu": "ایک، واحد، بےمثال",
@@ -32,6 +45,19 @@
                 "urdu": "یگانہ",
                 "hindi": "यगाना",
                 "english": "yagaana"
+              }
+            },
+            {
+              "word": "ہر",
+              "meanings": {
+                "urdu": "ہر، تمام",
+                "hindi": "हर, सभी",
+                "english": "Every, all"
+              },
+              "mapping": {
+                "urdu": "ہر",
+                "hindi": "हर",
+                "english": "har"
               }
             },
             {
@@ -61,6 +87,45 @@
               }
             },
             {
+              "word": "نہ",
+              "meanings": {
+                "urdu": "نہیں، نفی",
+                "hindi": "नहीं, नकार",
+                "english": "No, not"
+              },
+              "mapping": {
+                "urdu": "نہ",
+                "hindi": "न",
+                "english": "na"
+              }
+            },
+            {
+              "word": "کوئی",
+              "meanings": {
+                "urdu": "کوئی، ایک",
+                "hindi": "कोई, एक",
+                "english": "Any, someone"
+              },
+              "mapping": {
+                "urdu": "کوئی",
+                "hindi": "कोई",
+                "english": "koi"
+              }
+            },
+            {
+              "word": "اسکا",
+              "meanings": {
+                "urdu": "اس کا، اس سے متعلق",
+                "hindi": "उसका, उससे संबंधित",
+                "english": "His, its"
+              },
+              "mapping": {
+                "urdu": "اسکا",
+                "hindi": "उसका",
+                "english": "uska"
+              }
+            },
+            {
               "word": "ہمسر",
               "meanings": {
                 "urdu": "ہم پلہ، برابر",
@@ -87,6 +152,45 @@
               }
             },
             {
+              "word": "بنا",
+              "meanings": {
+                "urdu": "بغیر، بنائے",
+                "hindi": "बिना, बनाए",
+                "english": "Without, made"
+              },
+              "mapping": {
+                "urdu": "بنا",
+                "hindi": "बिना",
+                "english": "bina"
+              }
+            },
+            {
+              "word": "اس",
+              "meanings": {
+                "urdu": "اس، اسے",
+                "hindi": "उस, उसे",
+                "english": "Him, it"
+              },
+              "mapping": {
+                "urdu": "اس",
+                "hindi": "उस",
+                "english": "us"
+              }
+            },
+            {
+              "word": "کی",
+              "meanings": {
+                "urdu": "کا، کی",
+                "hindi": "का, की",
+                "english": "Of, belonging to"
+              },
+              "mapping": {
+                "urdu": "کی",
+                "hindi": "की",
+                "english": "ki"
+              }
+            },
+            {
               "word": "اجازت",
               "meanings": {
                 "urdu": "اجازت، منظوری",
@@ -100,6 +204,19 @@
               }
             },
             {
+              "word": "کے",
+              "meanings": {
+                "urdu": "کے، سے",
+                "hindi": "के, से",
+                "english": "Of, from"
+              },
+              "mapping": {
+                "urdu": "کے",
+                "hindi": "के",
+                "english": "ke"
+              }
+            },
+            {
               "word": "پتہ",
               "meanings": {
                 "urdu": "پتہ، برگ",
@@ -110,6 +227,19 @@
                 "urdu": "پتہ",
                 "hindi": "पत्ता",
                 "english": "patta"
+              }
+            },
+            {
+              "word": "نہیں",
+              "meanings": {
+                "urdu": "نہیں، نفی",
+                "hindi": "नहीं, नकार",
+                "english": "Not, negation"
+              },
+              "mapping": {
+                "urdu": "نہیں",
+                "hindi": "नहीं",
+                "english": "nahi"
               }
             },
             {
@@ -139,6 +269,19 @@
               }
             },
             {
+              "word": "مگر",
+              "meanings": {
+                "urdu": "مگر، لیکن",
+                "hindi": "मगर, लेकिन",
+                "english": "But, however"
+              },
+              "mapping": {
+                "urdu": "مگر",
+                "hindi": "मगर",
+                "english": "magar"
+              }
+            },
+            {
               "word": "شے",
               "meanings": {
                 "urdu": "چیز، شے",
@@ -152,6 +295,19 @@
               }
             },
             {
+              "word": "پہ",
+              "meanings": {
+                "urdu": "پر، اوپر",
+                "hindi": "पर, ऊपर",
+                "english": "On, upon"
+              },
+              "mapping": {
+                "urdu": "پہ",
+                "hindi": "पे",
+                "english": "pe"
+              }
+            },
+            {
               "word": "حکمرانی",
               "meanings": {
                 "urdu": "حکومت، اقتدار",
@@ -160,8 +316,21 @@
               },
               "mapping": {
                 "urdu": "حکمرانی",
-                "hindi": "हुक्मरानी",
+                "hindi": "हुकूमत",
                 "english": "hukmrani"
+              }
+            },
+            {
+              "word": "جب",
+              "meanings": {
+                "urdu": "جب، جب کہ",
+                "hindi": "जब, जब कि",
+                "english": "When"
+              },
+              "mapping": {
+                "urdu": "جب",
+                "hindi": "जब",
+                "english": "jab"
               }
             },
             {
@@ -178,6 +347,32 @@
               }
             },
             {
+              "word": "دیکھتا",
+              "meanings": {
+                "urdu": "دیکھنا، مشاہدہ کرنا",
+                "hindi": "देखना, अवलोकन करना",
+                "english": "See, observe"
+              },
+              "mapping": {
+                "urdu": "دیکھتا",
+                "hindi": "देखता",
+                "english": "dekhta"
+              }
+            },
+            {
+              "word": "ہوں",
+              "meanings": {
+                "urdu": "ہوں، ہونا",
+                "hindi": "हूँ, होना",
+                "english": "Am, be"
+              },
+              "mapping": {
+                "urdu": "ہوں",
+                "hindi": "हूँ",
+                "english": "hoon"
+              }
+            },
+            {
               "word": "غور",
               "meanings": {
                 "urdu": "غور، فکر",
@@ -188,6 +383,19 @@
                 "urdu": "غور",
                 "hindi": "ग़ौर",
                 "english": "ghaur"
+              }
+            },
+            {
+              "word": "سے",
+              "meanings": {
+                "urdu": "سے، کی طرف سے",
+                "hindi": "से, की ओर से",
+                "english": "From, by"
+              },
+              "mapping": {
+                "urdu": "سے",
+                "hindi": "से",
+                "english": "se"
               }
             },
             {
@@ -204,6 +412,19 @@
               }
             },
             {
+              "word": "ہوتا",
+              "meanings": {
+                "urdu": "ہونا، واقع ہونا",
+                "hindi": "होना, घटित होना",
+                "english": "Happen, occur"
+              },
+              "mapping": {
+                "urdu": "ہوتا",
+                "hindi": "होता",
+                "english": "hota"
+              }
+            },
+            {
               "word": "خلا",
               "meanings": {
                 "urdu": "خالی جگہ، فضا",
@@ -214,6 +435,19 @@
                 "urdu": "خلا",
                 "hindi": "ख़ला",
                 "english": "khala"
+              }
+            },
+            {
+              "word": "میں",
+              "meanings": {
+                "urdu": "میں، اندر",
+                "hindi": "में, अंदर",
+                "english": "In, within"
+              },
+              "mapping": {
+                "urdu": "میں",
+                "hindi": "में",
+                "english": "mein"
               }
             },
             {
@@ -279,6 +513,19 @@
                 "urdu": "پانی",
                 "hindi": "पानी",
                 "english": "paani"
+              }
+            },
+            {
+              "word": "کہیں",
+              "meanings": {
+                "urdu": "کہیں، کہیں جگہ",
+                "hindi": "कहीं, किसी स्थान पर",
+                "english": "Somewhere, anywhere"
+              },
+              "mapping": {
+                "urdu": "کہیں",
+                "hindi": "कहीं",
+                "english": "kahin"
               }
             },
             {
@@ -438,6 +685,45 @@
               }
             },
             {
+              "word": "ہم",
+              "meanings": {
+                "urdu": "ہم، ہم سب",
+                "hindi": "हम, हम सभी",
+                "english": "We, us"
+              },
+              "mapping": {
+                "urdu": "ہم",
+                "hindi": "हम",
+                "english": "hum"
+              }
+            },
+            {
+              "word": "سب",
+              "meanings": {
+                "urdu": "سب، تمام",
+                "hindi": "सब, सभी",
+                "english": "All, everyone"
+              },
+              "mapping": {
+                "urdu": "سب",
+                "hindi": "सब",
+                "english": "sab"
+              }
+            },
+            {
+              "word": "اسی",
+              "meanings": {
+                "urdu": "اسی، اسی کو",
+                "hindi": "उसी, उसी को",
+                "english": "That very, to him"
+              },
+              "mapping": {
+                "urdu": "اسی",
+                "hindi": "उसी",
+                "english": "usi"
+              }
+            },
+            {
               "word": "پاسبانی",
               "meanings": {
                 "urdu": "نگہبانی، حفاظت",
@@ -457,356 +743,850 @@
           "title": "تیری قدرت ڈالی ڈالی (حمدیہ نظم)",
           "word_meanings": [
             {
+              "word": "تیری",
+              "meanings": {
+                "urdu": "تیرا، آپ کا",
+                "hindi": "तेरा, आपका",
+                "english": "Your, yours"
+              },
+              "mapping": {
+                "urdu": "تیری",
+                "hindi": "तेरी",
+                "english": "teri"
+              }
+            },
+            {
               "word": "قدرت",
               "meanings": {
-                "urdu": "طاقت، صلاحیت",
-                "hindi": "शक्ति, सामर्थ्य",
-                "english": "Power, ability"
-              },
-              "mapping": {
-                "urdu": "قدرت",
-                "hindi": "क़ुदरत",
-                "english": "qudrat"
-              }
-            },
-            {
-              "word": "ڈالی",
-              "meanings": {
-                "urdu": "شاخ، ٹہنی",
-                "hindi": "डाली, टहनी",
-                "english": "Branch, twig"
-              },
-              "mapping": {
-                "urdu": "ڈالی",
-                "hindi": "डाली",
-                "english": "daali"
-              }
-            },
-            {
-              "word": "بالی",
-              "meanings": {
-                "urdu": "کنگن، بالیاں (شاعری میں ممکنہ طور پر کلی، پھول)",
-                "hindi": "कंगन, बाली (काव्य में संभवतः कली, फूल)",
-                "english": "Bangle, earring (poetically possibly bud, flower)"
-              },
-              "mapping": {
-                "urdu": "بالی",
-                "hindi": "बाली",
-                "english": "baali"
-              }
-            },
-            {
-              "word": "دم",
-              "meanings": {
-                "urdu": "سانس، طاقت",
-                "hindi": "साँस, शक्ति",
-                "english": "Breath, strength"
-              },
-              "mapping": {
-                "urdu": "دم",
-                "hindi": "दम",
-                "english": "dam"
-              }
-            },
-            {
-              "word": "روشن",
-              "meanings": {
-                "urdu": "چمکدار، منور",
-                "hindi": "चमकीला, प्रकाशित",
-                "english": "Bright, illuminated"
-              },
-              "mapping": {
-                "urdu": "روشن",
-                "hindi": "रोशन",
-                "english": "roshan"
-              }
-            },
-            {
-              "word": "گلشن",
-              "meanings": {
-                "urdu": "باغ، پھلواری",
-                "hindi": "बाग, फुलवारी",
-                "english": "Garden, orchard"
-              },
-              "mapping": {
-                "urdu": "گلشن",
-                "hindi": "गुलशन",
-                "english": "gulshan"
-              }
-            },
-            {
-              "word": "موج",
-              "meanings": {
-                "urdu": "لہر، موج",
-                "hindi": "लहर, तरंग",
-                "english": "Wave, surge"
-              },
-              "mapping": {
-                "urdu": "موج",
-                "hindi": "लहर",
-                "english": "mauj"
-              }
-            },
-            {
-              "word": "جلوہ",
-              "meanings": {
-                "urdu": "رونق، شان",
-                "hindi": "शोभा, वैभव",
-                "english": "Glory, splendor"
-              },
-              "mapping": {
-                "urdu": "جلوہ",
-                "hindi": "जलवा",
-                "english": "jalwa"
-              }
-            },
-            {
-              "word": "زرہ",
-              "meanings": {
-                "urdu": "ذرہ، کن",
-                "hindi": "कण, रेत",
-                "english": "Particle, speck"
-              },
-              "mapping": {
-                "urdu": "زرہ",
-                "hindi": "ज़र्रा",
-                "english": "zarra"
-              }
-            },
-            {
-              "word": "دریا",
-              "meanings": {
-                "urdu": "دریا، ندی",
-                "hindi": "नदी, सरिता",
-                "english": "River, stream"
-              },
-              "mapping": {
-                "urdu": "دریا",
-                "hindi": "दरिया",
-                "english": "darya"
-              }
-            },
-            {
-              "word": "سنگ",
-              "meanings": {
-                "urdu": "پتھر، چٹان",
-                "hindi": "पत्थर, चट्टान",
-                "english": "Stone, rock"
-              },
-              "mapping": {
-                "urdu": "سنگ",
-                "hindi": "पथ्थर",
-                "english": "sang"
-              }
-            },
-            {
-              "word": "کیڑے",
-              "meanings": {
-                "urdu": "کیڑے، حشرات",
-                "hindi": "कीड़े, कीट",
-                "english": "Insects, bugs"
-              },
-              "mapping": {
-                "urdu": "کیڑے",
-                "hindi": "कीड़े",
-                "english": "keere"
-              }
-            },
-            {
-              "word": "روزی",
-              "meanings": {
-                "urdu": "رزق، روزی",
-                "hindi": "जीविका, रोज़ी",
-                "english": "Sustenance, livelihood"
-              },
-              "mapping": {
-                "urdu": "روزی",
-                "hindi": "रोज़ी",
-                "english": "rozi"
-              }
-            },
-            {
-              "word": "اول",
-              "meanings": {
-                "urdu": "پہلا، ابتدائی",
-                "hindi": "पहला, प्रारंभिक",
-                "english": "First, initial"
-              },
-              "mapping": {
-                "urdu": "اول",
-                "hindi": "औल",
-                "english": "awwal"
-              }
-            },
-            {
-              "word": "آخر",
-              "meanings": {
-                "urdu": "آخری، انتہائی",
-                "hindi": "अंतिम, आखिरी",
-                "english": "Last, final"
-              },
-              "mapping": {
-                "urdu": "آخر",
-                "hindi": "आख़िर",
-                "english": "aakhir"
-              }
-            },
-            {
-              "word": "باطن",
-              "meanings": {
-                "urdu": "اندرونی، پوشیدہ",
-                "hindi": "आंतरिक, छिपा",
-                "english": "Inner, hidden"
-              },
-              "mapping": {
-                "urdu": "باطن",
-                "hindi": "बातन",
-                "english": "baatin"
-              }
-            },
-            {
-              "word": "ظاہر",
-              "meanings": {
-                "urdu": "ظاہری، آشکار",
-                "hindi": "प्रकट, स्पष्ट",
-                "english": "Apparent, visible"
-              },
-              "mapping": {
-                "urdu": "ظاہر",
-                "hindi": "ज़ाहिर",
-                "english": "zaahir"
-              }
-            },
-            {
-              "word": "ثناء",
-              "meanings": {
-                "urdu": "تعریف، حمد",
-                "hindi": "प्रशंसा, स्तुति",
-                "english": "Praise, glory"
-              },
-              "mapping": {
-                "urdu": "ثناء",
-                "hindi": "सँयाद",
-                "english": "sana"
-              }
-            },
-            {
-              "word": "قاصر",
-              "meanings": {
-                "urdu": "کمزور، ناکافی",
-                "hindi": "असमर्थ, अपर्याप्त",
-                "english": "Unable, insufficient"
-              },
-              "mapping": {
-                "urdu": "قاصر",
-                "hindi": "क़ासिर",
-                "english": "qaasir"
-              }
-            },
-            {
-              "word": "ادنیٰ",
-              "meanings": {
-                "urdu": "کم تر، معمولی",
-                "hindi": "निम्न, साधारण",
-                "english": "Lowly, ordinary"
-              },
-              "mapping": {
-                "urdu": "ادنیٰ",
-                "hindi": "अदना",
-                "english": "adna"
-              }
-            },
-            {
-              "word": "اعلیٰ",
-              "meanings": {
-                "urdu": "اعلیٰ، برتر",
-                "hindi": "उच्च, श्रेष्ठ",
-                "english": "High, superior"
-              },
-              "mapping": {
-                "urdu": "اعلیٰ",
-                "hindi": "अएल",
-                "english": "aala"
-              }
-            },
-            {
-              "word": "ماہر",
-              "meanings": {
-                "urdu": "ماہر، ہنرمند",
-                "hindi": "निपुण, कुशल",
-                "english": "Expert, skilled"
-              },
-              "mapping": {
-                "urdu": "ماہر",
-                "hindi": "माहिर",
-                "english": "maahir"
-              }
-            },
-            {
-              "word": "شاعر",
-              "meanings": {
-                "urdu": "شاعر، کوی",
-                "hindi": "कवि, शायर",
-                "english": "Poet"
-              },
-              "mapping": {
-                "urdu": "شاعر",
-                "hindi": "शायर",
-                "english": "shaa'ir"
-              }
-            },
-            {
-              "word": "دھڑکن",
-              "meanings": {
-                "urdu": "دھڑکن، نبض",
-                "hindi": "धड़कन, नाड़ी",
-                "english": "Heartbeat, pulse"
-              },
-              "mapping": {
-                "urdu": "دھڑکن",
-                "hindi": "धड़कन",
-                "english": "dhadkan"
-              }
-            },
-            {
-              "word": "رفتار",
-              "meanings": {
-                "urdu": "رفتار، چال",
-                "hindi": "गति, रफ़्तार",
-                "english": "Speed, pace"
-              },
-              "mapping": {
-                "urdu": "رفتار",
-                "hindi": "रफ़्तार",
-                "english": "raftaar"
-              }
-            },
-            {
-              "word": "گفتار",
-              "meanings": {
-                "urdu": "بات چیت، گفتگو",
-                "hindi": "बातचीत, संभाषण",
-                "english": "Speech, conversation"
-              },
-              "mapping": {
-                "urdu": "گفتار",
-                "hindi": "गुफ़्तार",
-                "english": "guftaar"
-              }
-            },
-            {
-              "word": "فانی",
-              "meanings": {
-                "urdu": "عارضی، نابود ہونے والا",
-                "hindi": "नश्वर, क्षणिक",
-                "english": "Mortal, perishable"
-              },
-              "mapping": {
-                "urdu": "فانی",
-                "hindi": "फानी",
-                "english": "faani"
-              }
-            }
+                    "urdu": "طاقت، صلاحیت",
+                    "hindi": "शक्ति, सामर्थ्य",
+                    "english": "Power, ability"
+                  },
+                  "mapping": {
+                    "urdu": "قدرت",
+                    "hindi": "क़ुदरत",
+                    "english": "qudrat"
+                  }
+                },
+                {
+                  "word": "ڈالی",
+                  "meanings": {
+                    "urdu": "شاخ، ٹہنی",
+                    "hindi": "डाली, टहनी",
+                    "english": "Branch, twig"
+                  },
+                  "mapping": {
+                    "urdu": "ڈالی",
+                    "hindi": "डाली",
+                    "english": "daali"
+                  }
+                },
+                {
+                  "word": "پتہ",
+                  "meanings": {
+                    "urdu": "پتا، پتہ",
+                    "hindi": "पत्ता, पर्ण",
+                    "english": "Leaf"
+                  },
+                  "mapping": {
+                    "urdu": "پتہ",
+                    "hindi": "पत्ता",
+                    "english": "patta"
+                  }
+                },
+                {
+                  "word": "بالی",
+                  "meanings": {
+                    "urdu": "بالی، پھول",
+                    "hindi": "बाली, फूल",
+                    "english": "Bud, flower"
+                  },
+                  "mapping": {
+                    "urdu": "بالی",
+                    "hindi": "बाली",
+                    "english": "baali"
+                  }
+                },
+                {
+                  "word": "تیرے",
+                  "meanings": {
+                    "urdu": "تیرا، آپ کا",
+                    "hindi": "तेरा, आपका",
+                    "english": "Your, yours"
+                  },
+                  "mapping": {
+                    "urdu": "تیرے",
+                    "hindi": "तेरे",
+                    "english": "tere"
+                  }
+                },
+                {
+                  "word": "دم",
+                  "meanings": {
+                    "urdu": "سانس، طاقت",
+                    "hindi": "साँस, शक्ति",
+                    "english": "Breath, strength"
+                  },
+                  "mapping": {
+                    "urdu": "دم",
+                    "hindi": "दम",
+                    "english": "dam"
+                  }
+                },
+                {
+                  "word": "سے",
+                  "meanings": {
+                    "urdu": "سے، کے ساتھ",
+                    "hindi": "से, के साथ",
+                    "english": "From, with"
+                  },
+                  "mapping": {
+                    "urdu": "سے",
+                    "hindi": "से",
+                    "english": "se"
+                  }
+                },
+                {
+                  "word": "روشن",
+                  "meanings": {
+                    "urdu": "روشن، چمکدار",
+                    "hindi": "प्रकाशित, चमकीला",
+                    "english": "Bright, illuminated"
+                  },
+                  "mapping": {
+                    "urdu": "روشن",
+                    "hindi": "रोशन",
+                    "english": "roshan"
+                  }
+                },
+                {
+                  "word": "دنیا",
+                  "meanings": {
+                    "urdu": "جهان، دھرتی",
+                    "hindi": "दुनिया, संसार",
+                    "english": "World, earth"
+                  },
+                  "mapping": {
+                    "urdu": "دنیا",
+                    "hindi": "दुनिया",
+                    "english": "dunya"
+                  }
+                },
+                {
+                  "word": "گلشن",
+                  "meanings": {
+                    "urdu": "باغ، پھلواری",
+                    "hindi": "बाग़, फुलवारी",
+                    "english": "Garden, orchard"
+                  },
+                  "mapping": {
+                    "urdu": "گلشن",
+                    "hindi": "गुलशन",
+                    "english": "gulshan"
+                  }
+                },
+                {
+                  "word": "موج",
+                  "meanings": {
+                    "urdu": "لہر، موج",
+                    "hindi": "लहर, तरंग",
+                    "english": "Wave"
+                  },
+                  "mapping": {
+                    "urdu": "موج",
+                    "hindi": "मौज",
+                    "english": "mauj"
+                  }
+                },
+                {
+                  "word": "میں",
+                  "meanings": {
+                    "urdu": "میں، اندر",
+                    "hindi": "में, अंदर",
+                    "english": "In, inside"
+                  },
+                  "mapping": {
+                    "urdu": "میں",
+                    "hindi": "में",
+                    "english": "mein"
+                  }
+                },
+                {
+                  "word": "روانی",
+                  "meanings": {
+                    "urdu": "بہاؤ، روانی",
+                    "hindi": "प्रवाह, सरलता",
+                    "english": "Flow, fluency"
+                  },
+                  "mapping": {
+                    "urdu": "روانی",
+                    "hindi": "रवानी",
+                    "english": "rawaani"
+                  }
+                },
+                {
+                  "word": "بہتا",
+                  "meanings": {
+                    "urdu": "بہنا، جاری",
+                    "hindi": "बहना, प्रवाहित",
+                    "english": "Flowing, streaming"
+                  },
+                  "mapping": {
+                    "urdu": "بہتا",
+                    "hindi": "बहता",
+                    "english": "behta"
+                  }
+                },
+                {
+                  "word": "پانی",
+                  "meanings": {
+                    "urdu": "پانی، جل",
+                    "hindi": "पानी, जल",
+                    "english": "Water"
+                  },
+                  "mapping": {
+                    "urdu": "پانی",
+                    "hindi": "पानी",
+                    "english": "paani"
+                  }
+                },
+                {
+                  "word": "تیرا",
+                  "meanings": {
+                    "urdu": "تیرا، آپ کا",
+                    "hindi": "तेरा, आपका",
+                    "english": "Your, yours"
+                  },
+                  "mapping": {
+                    "urdu": "تیرا",
+                    "hindi": "तेरा",
+                    "english": "tera"
+                  }
+                },
+                {
+                  "word": "نہیں",
+                  "meanings": {
+                    "urdu": "نہیں، نا",
+                    "hindi": "नहीं, न",
+                    "english": "Not, no"
+                  },
+                  "mapping": {
+                    "urdu": "نہیں",
+                    "hindi": "नहीं",
+                    "english": "nahi"
+                  }
+                },
+                {
+                  "word": "ہے",
+                  "meanings": {
+                    "urdu": "ہے، موجود",
+                    "hindi": "है, मौजूद",
+                    "english": "Is, exists"
+                  },
+                  "mapping": {
+                    "urdu": "ہے",
+                    "hindi": "है",
+                    "english": "hai"
+                  }
+                },
+                {
+                  "word": "ثانی",
+                  "meanings": {
+                    "urdu": "دوسرا، ہمسر",
+                    "hindi": "दूसरा, समकक्ष",
+                    "english": "Second, equal"
+                  },
+                  "mapping": {
+                    "urdu": "ثانی",
+                    "hindi": "सानी",
+                    "english": "saani"
+                  }
+                },
+                {
+                  "word": "کوئی",
+                  "meanings": {
+                    "urdu": "کوئی، کوئی ایک",
+                    "hindi": "कोई, एक",
+                    "english": "Someone, anyone"
+                  },
+                  "mapping": {
+                    "urdu": "کوئی",
+                    "hindi": "कोई",
+                    "english": "koi"
+                  }
+                },
+                {
+                  "word": "بانی",
+                  "meanings": {
+                    "urdu": "بانی، موجد",
+                    "hindi": "संस्थापक, निर्माता",
+                    "english": "Founder, creator"
+                  },
+                  "mapping": {
+                    "urdu": "بانی",
+                    "hindi": "बानी",
+                    "english": "baani"
+                  }
+                },
+                {
+                  "word": "تو",
+                  "meanings": {
+                    "urdu": "تو، آپ",
+                    "hindi": "तू, आप",
+                    "english": "You"
+                  },
+                  "mapping": {
+                    "urdu": "تو",
+                    "hindi": "तू",
+                    "english": "tu"
+                  }
+                },
+                {
+                  "word": "تنہا",
+                  "meanings": {
+                    "urdu": "اکیلا، تنہا",
+                    "hindi": "अकेला, तनहा",
+                    "english": "Alone, solitary"
+                  },
+                  "mapping": {
+                    "urdu": "تنہا",
+                    "hindi": "तनहा",
+                    "english": "tanha"
+                  }
+                },
+                {
+                  "word": "یکتا",
+                  "meanings": {
+                    "urdu": "ایک، منفرد",
+                    "hindi": "एक, अनोखा",
+                    "english": "Unique, one"
+                  },
+                  "mapping": {
+                    "urdu": "یکتا",
+                    "hindi": "यकता",
+                    "english": "yakta"
+                  }
+                },
+                {
+                  "word": "یگانہ",
+                  "meanings": {
+                    "urdu": "منفرد، واحد",
+                    "hindi": "अनोखा, एकमात्र",
+                    "english": "Unique, singular"
+                  },
+                  "mapping": {
+                    "urdu": "یگانہ",
+                    "hindi": "यगाना",
+                    "english": "yagaana"
+                  }
+                },
+                {
+                  "word": "کن",
+                  "meanings": {
+                    "urdu": "ہو، بن",
+                    "hindi": "हो, बन",
+                    "english": "Be, become"
+                  },
+                  "mapping": {
+                    "urdu": "کن",
+                    "hindi": "कुन",
+                    "english": "kun"
+                  }
+                },
+                {
+                  "word": "سارا",
+                  "meanings": {
+                    "urdu": "سارا، تمام",
+                    "hindi": "सारा, सम्पूर्ण",
+                    "english": "All, entire"
+                  },
+                  "mapping": {
+                    "urdu": "سارا",
+                    "hindi": "सारा",
+                    "english": "saara"
+                  }
+                },
+                {
+                  "word": "زمانہ",
+                  "meanings": {
+                    "urdu": "زمانہ، دور",
+                    "hindi": "ज़माना, युग",
+                    "english": "Era, time"
+                  },
+                  "mapping": {
+                    "urdu": "زمانہ",
+                    "hindi": "ज़माना",
+                    "english": "zamaana"
+                  }
+                },
+                {
+                  "word": "جلوہ",
+                  "meanings": {
+                    "urdu": "جلوہ، نمود",
+                    "hindi": "जलवा, प्रदर्शन",
+                    "english": "Glory, manifestation"
+                  },
+                  "mapping": {
+                    "urdu": "جلوہ",
+                    "hindi": "जलवा",
+                    "english": "jalwa"
+                  }
+                },
+                {
+                  "word": "ذرہ",
+                  "meanings": {
+                    "urdu": "ذرہ، کن",
+                    "hindi": "कण, ज़र्रा",
+                    "english": "Particle, atom"
+                  },
+                  "mapping": {
+                    "urdu": "ذرہ",
+                    "hindi": "ज़र्रा",
+                    "english": "zarra"
+                  }
+                },
+                {
+                  "word": "دریا",
+                  "meanings": {
+                    "urdu": "دریا، ندی",
+                    "hindi": "नदी, समुद्र",
+                    "english": "River, sea"
+                  },
+                  "mapping": {
+                    "urdu": "دریا",
+                    "hindi": "दरिया",
+                    "english": "darya"
+                  }
+                },
+                {
+                  "word": "صحرا",
+                  "meanings": {
+                    "urdu": "صحرا، بیابان",
+                    "hindi": "रेगिस्तान, मरुस्थल",
+                    "english": "Desert"
+                  },
+                  "mapping": {
+                    "urdu": "صحرا",
+                    "hindi": "सहरा",
+                    "english": "sahra"
+                  }
+                },
+                {
+                  "word": "سنگ",
+                  "meanings": {
+                    "urdu": "پتھر، سنگ",
+                    "hindi": "पत्थर, शिला",
+                    "english": "Stone, rock"
+                  },
+                  "mapping": {
+                    "urdu": "سنگ",
+                    "hindi": "संग",
+                    "english": "sang"
+                  }
+                },
+                {
+                  "word": "تلے",
+                  "meanings": {
+                    "urdu": "نیچے، تحت",
+                    "hindi": "नीचे, तले",
+                    "english": "Beneath, under"
+                  },
+                  "mapping": {
+                    "urdu": "تلے",
+                    "hindi": "तले",
+                    "english": "tale"
+                  }
+                },
+                {
+                  "word": "بھی",
+                  "meanings": {
+                    "urdu": "بھی، حتیٰ کہ",
+                    "hindi": "भी, यहाँ तक कि",
+                    "english": "Also, even"
+                  },
+                  "mapping": {
+                    "urdu": "بھی",
+                    "hindi": "भी",
+                    "english": "bhi"
+                  }
+                },
+                {
+                  "word": "کیڑے",
+                  "meanings": {
+                    "urdu": "کیڑے، حشرات",
+                    "hindi": "कीड़े, कीट",
+                    "english": "Insects, bugs"
+                  },
+                  "mapping": {
+                    "urdu": "کیڑے",
+                    "hindi": "कीड़े",
+                    "english": "keede"
+                  }
+                },
+                {
+                  "word": "پالے",
+                  "meanings": {
+                    "urdu": "پالنا، پرورش کرنا",
+                    "hindi": "पालना, पोषण करना",
+                    "english": "Nurture, rear"
+                  },
+                  "mapping": {
+                    "urdu": "پالے",
+                    "hindi": "पाले",
+                    "english": "paale"
+                  }
+                },
+                {
+                  "word": "اندھے",
+                  "meanings": {
+                    "urdu": "اندھا، نابینا",
+                    "hindi": "अंधा, नेत्रहीन",
+                    "english": "Blind"
+                  },
+                  "mapping": {
+                    "urdu": "اندھے",
+                    "hindi": "अंधे",
+                    "english": "andhe"
+                  }
+                },
+                {
+                  "word": "سانپ",
+                  "meanings": {
+                    "urdu": "سانپ، ساپ",
+                    "hindi": "साँप, सर्प",
+                    "english": "Snake"
+                  },
+                  "mapping": {
+                    "urdu": "سانپ",
+                    "hindi": "साँप",
+                    "english": "saanp"
+                  }
+                },
+                {
+                  "word": "روزی",
+                  "meanings": {
+                    "urdu": "روزی، رزق",
+                    "hindi": "रोज़ी, आजीविका",
+                    "english": "Sustenance, livelihood"
+                  },
+                  "mapping": {
+                    "urdu": "روزی",
+                    "hindi": "रोज़ी",
+                    "english": "rozi"
+                  }
+                },
+                {
+                  "word": "ڈالے",
+                  "meanings": {
+                    "urdu": "ڈالنا، دینا",
+                    "hindi": "डालना, देना",
+                    "english": "Provide, give"
+                  },
+                  "mapping": {
+                    "urdu": "ڈالے",
+                    "hindi": "डाले",
+                    "english": "daale"
+                  }
+                },
+                {
+                  "word": "ہی",
+                  "meanings": {
+                    "urdu": "ہی، صرف",
+                    "hindi": "ही, केवल",
+                    "english": "Only, indeed"
+                  },
+                  "mapping": {
+                    "urdu": "ہی",
+                    "hindi": "ही",
+                    "english": "hi"
+                  }
+                },
+                {
+                  "word": "اوّل",
+                  "meanings": {
+                    "urdu": "پہلا، اول",
+                    "hindi": "पहला, प्रथम",
+                    "english": "First, initial"
+                  },
+                  "mapping": {
+                    "urdu": "اوّل",
+                    "hindi": "अव्वल",
+                    "english": "awwal"
+                  }
+                },
+                {
+                  "word": "آخر",
+                  "meanings": {
+                    "urdu": "آخر، اخیر",
+                    "hindi": "अंत, आखिरी",
+                    "english": "Last, final"
+                  },
+                  "mapping": {
+                    "urdu": "آخر",
+                    "hindi": "आख़िर",
+                    "english": "aakhir"
+                  }
+                },
+                {
+                  "word": "باطن",
+                  "meanings": {
+                    "urdu": "باطن، اندرونی",
+                    "hindi": "बातिन, आंतरिक",
+                    "english": "Inner, hidden"
+                  },
+                  "mapping": {
+                    "urdu": "باطن",
+                    "hindi": "बातिन",
+                    "english": "baatin"
+                  }
+                },
+                {
+                  "word": "ظاہر",
+                  "meanings": {
+                    "urdu": "ظاہر، آشکار",
+                    "hindi": "ज़ाहिर, प्रकट",
+                    "english": "Apparent, manifest"
+                  },
+                  "mapping": {
+                    "urdu": "ظاہر",
+                    "hindi": "ज़ाहिर",
+                    "english": "zaahir"
+                  }
+                },
+                {
+                  "word": "ثناء",
+                  "meanings": {
+                    "urdu": "تعریف، ستائش",
+                    "hindi": "प्रशंसा, स्तुति",
+                    "english": "Praise, commendation"
+                  },
+                  "mapping": {
+                    "urdu": "ثناء",
+                    "hindi": "सना",
+                    "english": "sana"
+                  }
+                },
+                {
+                  "word": "سب",
+                  "meanings": {
+                    "urdu": "سب، تمام",
+                    "hindi": "सब, सभी",
+                    "english": "All, everyone"
+                  },
+                  "mapping": {
+                    "urdu": "سب",
+                    "hindi": "सब",
+                    "english": "sab"
+                  }
+                },
+                {
+                  "word": "ہیں",
+                  "meanings": {
+                    "urdu": "ہیں، موجود ہیں",
+                    "hindi": "हैं, मौजूद हैं",
+                    "english": "Are, exist"
+                  },
+                  "mapping": {
+                    "urdu": "ہیں",
+                    "hindi": "हैं",
+                    "english": "hain"
+                  }
+                },
+                {
+                  "word": "قاصر",
+                  "meanings": {
+                    "urdu": "ناکافی، عاجز",
+                    "hindi": "असमर्थ, कमी",
+                    "english": "Incapable, deficient"
+                  },
+                  "mapping": {
+                    "urdu": "قاصر",
+                    "hindi": "क़ासिर",
+                    "english": "qaasir"
+                  }
+                },
+                {
+                  "word": "ادنیٰ",
+                  "meanings": {
+                    "urdu": "کم تر، معمولی",
+                    "hindi": "निम्न, साधारण",
+                    "english": "Inferior, ordinary"
+                  },
+                  "mapping": {
+                    "urdu": "ادنیٰ",
+                    "hindi": "अदना",
+                    "english": "adna"
+                  }
+                },
+                {
+                  "word": "اعلیٰ",
+                  "meanings": {
+                    "urdu": "عظیم، بلند",
+                    "hindi": "उच्च, श्रेष्ठ",
+                    "english": "Exalted, superior"
+                  },
+                  "mapping": {
+                    "urdu": "اعلیٰ",
+                    "hindi": "आला",
+                    "english": "aala"
+                  }
+                },
+                {
+                  "word": "ماہر",
+                  "meanings": {
+                    "urdu": "ماہر، ہنرمند",
+                    "hindi": "निपुण, विशेषज्ञ",
+                    "english": "Expert, skilled"
+                  },
+                  "mapping": {
+                    "urdu": "ماہر",
+                    "hindi": "माहिर",
+                    "english": "maahir"
+                  }
+                },
+                {
+                  "word": "شاعر",
+                  "meanings": {
+                    "urdu": "شاعر، کوی",
+                    "hindi": "कवि, शायर",
+                    "english": "Poet"
+                  },
+                  "mapping": {
+                    "urdu": "شاعر",
+                    "hindi": "शायर",
+                    "english": "shaair"
+                  }
+                },
+                {
+                  "word": "دھڑکن",
+                  "meanings": {
+                    "urdu": "دھڑکن، دل کی دھڑکن",
+                    "hindi": "धड़कन, हृदय की धड़कन",
+                    "english": "Heartbeat"
+                  },
+                  "mapping": {
+                    "urdu": "دھڑکن",
+                    "hindi": "धड़कन",
+                    "english": "dhadkan"
+                  }
+                },
+                {
+                  "word": "رفتار",
+                  "meanings": {
+                    "urdu": "رفتار، چال",
+                    "hindi": "गति, रफ्तार",
+                    "english": "Speed, pace"
+                  },
+                  "mapping": {
+                    "urdu": "رفتار",
+                    "hindi": "रफ्तार",
+                    "english": "raftaar"
+                  }
+                },
+                {
+                  "word": "آدم",
+                  "meanings": {
+                    "urdu": "انسان، آدمی",
+                    "hindi": "मनुष्य, आदमी",
+                    "english": "Human, man"
+                  },
+                  "mapping": {
+                    "urdu": "آدم",
+                    "hindi": "आदम",
+                    "english": "aadam"
+                  }
+                },
+                {
+                  "word": "گفتار",
+                  "meanings": {
+                    "urdu": "گفتار، بات",
+                    "hindi": "बातचीत, वाणी",
+                    "english": "Speech, discourse"
+                  },
+                  "mapping": {
+                    "urdu": "گفتار",
+                    "hindi": "गुफ्तार",
+                    "english": "guftaar"
+                  }
+                },
+                {
+                  "word": "سو",
+                  "meanings": {
+                    "urdu": "سو، ایک سو",
+                    "hindi": "सौ, एक सौ",
+                    "english": "Hundred"
+                  },
+                  "mapping": {
+                    "urdu": "سو",
+                    "hindi": "सौ",
+                    "english": "sau"
+                  }
+                },
+                {
+                  "word": "بات",
+                  "meanings": {
+                    "urdu": "بات، گفتگو",
+                    "hindi": "बात, वार्ता",
+                    "english": "Matter, talk"
+                  },
+                  "mapping": {
+                    "urdu": "بات",
+                    "hindi": "बात",
+                    "english": "baat"
+                  }
+                },
+                {
+                  "word": "اک",
+                  "meanings": {
+                    "urdu": "ایک، واحد",
+                    "hindi": "एक, अकेला",
+                    "english": "One, single"
+                  },
+                  "mapping": {
+                    "urdu": "اک",
+                    "hindi": "एक",
+                    "english": "ek"
+                  }
+                },
+                {
+                  "word": "اللہ",
+                  "meanings": {
+                    "urdu": "اللہ، خدا",
+                    "hindi": "अल्लाह, ईश्वर",
+                    "english": "Allah, God"
+                  },
+                  "mapping": {
+                    "urdu": "اللہ",
+                    "hindi": "अल्लाह",
+                    "english": "Allah"
+                  }
+                },
+                {
+                  "word": "باقی",
+                  "meanings": {
+                    "urdu": "باقی، دائم",
+                    "hindi": "बाकी, स्थायी",
+                    "english": "Remaining, eternal"
+                  },
+                  "mapping": {
+                    "urdu": "باقی",
+                    "hindi": "बाक़ी",
+                    "english": "baaqi"
+                  }
+                },
+                {
+                  "word": "فانی",
+                  "meanings": {
+                    "urdu": "فانی، عارضی",
+                    "hindi": "नश्वर, अस्थायी",
+                    "english": "Mortal, transient"
+                  },
+                  "mapping": {
+                    "urdu": "فانی",
+                    "hindi": "फानी",
+                    "english": "faani"
+                  }
+                }
           ]
         }
       ]
@@ -833,10 +1613,49 @@
               }
             },
             {
+              "word": "جس",
+              "meanings": {
+                "urdu": "جس، جو",
+                "hindi": "जिस, जो",
+                "english": "Who, which"
+              },
+              "mapping": {
+                "urdu": "جس",
+                "hindi": "जिस",
+                "english": "jis"
+              }
+            },
+            {
+              "word": "کو",
+              "meanings": {
+                "urdu": "کو، کی طرف",
+                "hindi": "को, की ओर",
+                "english": "To, towards"
+              },
+              "mapping": {
+                "urdu": "کو",
+                "hindi": "को",
+                "english": "ko"
+              }
+            },
+            {
+              "word": "ہوگئی",
+              "meanings": {
+                "urdu": "ہو گئی، مکمل ہوا",
+                "hindi": "हो गई, पूर्ण हुआ",
+                "english": "Has become, completed"
+              },
+              "mapping": {
+                "urdu": "ہوگئی",
+                "hindi": "हो गई",
+                "english": "ho gayi"
+              }
+            },
+            {
               "word": "سنت",
               "meanings": {
-                "urdu": "راستہ، طریقہ",
-                "hindi": "मार्ग, परंपरा",
+                "urdu": "سنت، روایت",
+                "hindi": "सुन्नत, परंपरा",
                 "english": "Tradition, practice"
               },
               "mapping": {
@@ -848,8 +1667,8 @@
             {
               "word": "رسول",
               "meanings": {
-                "urdu": "پیغمبر، نبی",
-                "hindi": "पैगंबर, नबी",
+                "urdu": "رسول، پیغمبر",
+                "hindi": "रसूल, पैगंबर",
                 "english": "Prophet, messenger"
               },
               "mapping": {
@@ -862,34 +1681,47 @@
               "word": "خلد",
               "meanings": {
                 "urdu": "جنت، بہشت",
-                "hindi": "स्वर्ग, जन्नत",
+                "hindi": "जन्नत, स्वर्ग",
                 "english": "Paradise, heaven"
               },
               "mapping": {
                 "urdu": "خلد",
-                "hindi": "ख़ुल्द",
+                "hindi": "खुल्द",
                 "english": "khuld"
               }
             },
             {
               "word": "قربت",
               "meanings": {
-                "urdu": "نزدیکی، رفاقت",
-                "hindi": "निकटता, साथ",
+                "urdu": "قربت، نزدیکی",
+                "hindi": "क़ुरबत, निकटता",
                 "english": "Proximity, closeness"
               },
               "mapping": {
                 "urdu": "قربت",
-                "hindi": "क़ुर्बत",
+                "hindi": "क़ुरबत",
                 "english": "qurbat"
+              }
+            },
+            {
+              "word": "پڑھتے",
+              "meanings": {
+                "urdu": "پڑھنا، تلاوت کرنا",
+                "hindi": "पढ़ना, पाठ करना",
+                "english": "Read, recite"
+              },
+              "mapping": {
+                "urdu": "پڑھتے",
+                "hindi": "पढ़ते",
+                "english": "padhte"
               }
             },
             {
               "word": "درود",
               "meanings": {
-                "urdu": "سلام، درود",
-                "hindi": "सलाम, दुरूद",
-                "english": "Salutation, blessings"
+                "urdu": "درود، صلوٰة",
+                "hindi": "दुरूद, सलवात",
+                "english": "Blessings, salutation"
               },
               "mapping": {
                 "urdu": "درود",
@@ -900,8 +1732,8 @@
             {
               "word": "پاک",
               "meanings": {
-                "urdu": "پاکیزہ، صاف",
-                "hindi": "पवित्र, स्वच्छ",
+                "urdu": "پاک، صاف",
+                "hindi": "पवित्र, शुद्ध",
                 "english": "Pure, holy"
               },
               "mapping": {
@@ -913,9 +1745,9 @@
             {
               "word": "حور",
               "meanings": {
-                "urdu": "جنت کی عورتیں",
-                "hindi": "स्वर्ग की अप्सराएँ",
-                "english": "Houris, maidens of paradise"
+                "urdu": "حور، جنتی عورت",
+                "hindi": "हूर, स्वर्गीय स्त्री",
+                "english": "Houris, celestial maidens"
               },
               "mapping": {
                 "urdu": "حور",
@@ -927,7 +1759,7 @@
               "word": "ملک",
               "meanings": {
                 "urdu": "فرشتہ، ملک",
-                "hindi": "फरिश्ता, देवदूत",
+                "hindi": "फरिश्ता, मलक",
                 "english": "Angel"
               },
               "mapping": {
@@ -937,10 +1769,23 @@
               }
             },
             {
+              "word": "سبھی",
+              "meanings": {
+                "urdu": "سبھی، تمام",
+                "hindi": "सभी, सब",
+                "english": "All, everyone"
+              },
+              "mapping": {
+                "urdu": "سبھی",
+                "hindi": "सभी",
+                "english": "sabhi"
+              }
+            },
+            {
               "word": "اعلی",
               "meanings": {
-                "urdu": "عظیم، بلند",
-                "hindi": "उच्च, श्रेष्ठ",
+                "urdu": "اعلیٰ، بلند",
+                "hindi": "आला, उच्च",
                 "english": "Exalted, supreme"
               },
               "mapping": {
@@ -952,8 +1797,8 @@
             {
               "word": "عظمت",
               "meanings": {
-                "urdu": "بڑائی، شان",
-                "hindi": "महिमा, शान",
+                "urdu": "عظمت، بزرگی",
+                "hindi": "अज़मत, महानता",
                 "english": "Greatness, glory"
               },
               "mapping": {
@@ -965,7 +1810,7 @@
             {
               "word": "قرآں",
               "meanings": {
-                "urdu": "قرآن، الکتاب",
+                "urdu": "قرآن، کتاب مقدس",
                 "hindi": "क़ुरआन, पवित्र ग्रंथ",
                 "english": "Quran, holy book"
               },
@@ -976,11 +1821,24 @@
               }
             },
             {
+              "word": "ایسا",
+              "meanings": {
+                "urdu": "ایسا، اس طرح",
+                "hindi": "ऐसा, इस प्रकार",
+                "english": "Such, like this"
+              },
+              "mapping": {
+                "urdu": "ایسا",
+                "hindi": "ऐसा",
+                "english": "aisa"
+              }
+            },
+            {
               "word": "پارہ",
               "meanings": {
-                "urdu": "حصہ، جز",
-                "hindi": "खंड, भाग",
-                "english": "Section, part"
+                "urdu": "پارہ، حصہ",
+                "hindi": "पारा, हिस्सा",
+                "english": "Section, part (of Quran)"
               },
               "mapping": {
                 "urdu": "پارہ",
@@ -989,14 +1847,105 @@
               }
             },
             {
-              "word": "مِدحت",
+              "word": "نہیں",
               "meanings": {
-                "urdu": "تعریف، ستائش",
-                "hindi": "प्रशंसा, स्तुति",
+                "urdu": "نہیں، نفی",
+                "hindi": "नहीं, नकार",
+                "english": "Not, negation"
+              },
+              "mapping": {
+                "urdu": "نہیں",
+                "hindi": "नहीं",
+                "english": "nahi"
+              }
+            },
+            {
+              "word": "ملا",
+              "meanings": {
+                "urdu": "ملنا، حاصل ہونا",
+                "hindi": "मिलना, प्राप्त होना",
+                "english": "Found, obtained"
+              },
+              "mapping": {
+                "urdu": "ملا",
+                "hindi": "मिला",
+                "english": "mila"
+              }
+            },
+            {
+              "word": "خود",
+              "meanings": {
+                "urdu": "خود، آپ",
+                "hindi": "ख़ुद, स्वयं",
+                "english": "Self, itself"
+              },
+              "mapping": {
+                "urdu": "خود",
+                "hindi": "ख़ुद",
+                "english": "khud"
+              }
+            },
+            {
+              "word": "جو",
+              "meanings": {
+                "urdu": "جو، جس نے",
+                "hindi": "जो, जिसने",
+                "english": "Who, which"
+              },
+              "mapping": {
+                "urdu": "جو",
+                "hindi": "जो",
+                "english": "jo"
+              }
+            },
+            {
+              "word": "کر",
+              "meanings": {
+                "urdu": "کرنا، عمل کرنا",
+                "hindi": "करना, कार्य करना",
+                "english": "Do, perform"
+              },
+              "mapping": {
+                "urdu": "کر",
+                "hindi": "कर",
+                "english": "kar"
+              }
+            },
+            {
+              "word": "رہا",
+              "meanings": {
+                "urdu": "رہنا، جاری",
+                "hindi": "रहना, जारी",
+                "english": "Continuing, ongoing"
+              },
+              "mapping": {
+                "urdu": "رہا",
+                "hindi": "रहा",
+                "english": "raha"
+              }
+            },
+            {
+              "word": "ہو",
+              "meanings": {
+                "urdu": "ہونا، ہے",
+                "hindi": "होना, है",
+                "english": "Be, is"
+              },
+              "mapping": {
+                "urdu": "ہو",
+                "hindi": "हो",
+                "english": "ho"
+              }
+            },
+            {
+              "word": "مدحت",
+              "meanings": {
+                "urdu": "مدح، تعریف",
+                "hindi": "मिदहत, प्रशंसा",
                 "english": "Praise, eulogy"
               },
               "mapping": {
-                "urdu": "مِدحت",
+                "urdu": "مدحت",
                 "hindi": "मिदहत",
                 "english": "midhat"
               }
@@ -1004,9 +1953,9 @@
             {
               "word": "حضرت",
               "meanings": {
-                "urdu": "عزت والا، بزرگ",
-                "hindi": "माननीय, संत",
-                "english": "Honorable, saint"
+                "urdu": "حضرت، بزرگ",
+                "hindi": "हज़रत, सम्मानित",
+                "english": "Honorable, revered"
               },
               "mapping": {
                 "urdu": "حضرت",
@@ -1017,34 +1966,47 @@
             {
               "word": "بلال",
               "meanings": {
-                "urdu": "صحابی کا نام",
-                "hindi": "सहाबी का नाम",
-                "english": "Name of a companion"
+                "urdu": "بلال، صحابی کا نام",
+                "hindi": "बिलाल, सहाबी का नाम",
+                "english": "Bilal, name of a companion"
               },
               "mapping": {
                 "urdu": "بلال",
                 "hindi": "बिलाल",
-                "english": "Bilal"
+                "english": "Bilaal"
               }
             },
             {
               "word": "نازاں",
               "meanings": {
-                "urdu": "فخر کرنے والا، خوش",
-                "hindi": "गर्व करने वाला, प्रसन्न",
-                "english": "Proud, delighted"
+                "urdu": "فخر، نازاں",
+                "hindi": "गर्व, नाज़ां",
+                "english": "Proud, exultant"
               },
               "mapping": {
                 "urdu": "نازاں",
-                "hindi": "नाज़ाँ",
+                "hindi": "नाज़ां",
                 "english": "naazaan"
+              }
+            },
+            {
+              "word": "اپنے",
+              "meanings": {
+                "urdu": "اپنا، اپنے",
+                "hindi": "अपना, अपने",
+                "english": "Own, one’s"
+              },
+              "mapping": {
+                "urdu": "اپنے",
+                "hindi": "अपने",
+                "english": "apne"
               }
             },
             {
               "word": "نصیب",
               "meanings": {
-                "urdu": "قسمت، بخت",
-                "hindi": "भाग्य, किस्मत",
+                "urdu": "نصیب، قسمت",
+                "hindi": "नसीब, भाग्य",
                 "english": "Fate, destiny"
               },
               "mapping": {
@@ -1054,10 +2016,88 @@
               }
             },
             {
+              "word": "پر",
+              "meanings": {
+                "urdu": "پر، اوپر",
+                "hindi": "पर, ऊपर",
+                "english": "On, upon"
+              },
+              "mapping": {
+                "urdu": "پر",
+                "hindi": "पर",
+                "english": "par"
+              }
+            },
+            {
+              "word": "کرنے",
+              "meanings": {
+                "urdu": "کرنا، عمل کرنا",
+                "hindi": "करना, कार्य करना",
+                "english": "Do, perform"
+              },
+              "mapping": {
+                "urdu": "کرنے",
+                "hindi": "करने",
+                "english": "karne"
+              }
+            },
+            {
+              "word": "لگے",
+              "meanings": {
+                "urdu": "لگنا، شروع ہونا",
+                "hindi": "लगना, शुरू होना",
+                "english": "Begin, start"
+              },
+              "mapping": {
+                "urdu": "لگے",
+                "hindi": "लगे",
+                "english": "lage"
+              }
+            },
+            {
+              "word": "جب",
+              "meanings": {
+                "urdu": "جب، جب کہ",
+                "hindi": "जब, जब कि",
+                "english": "When"
+              },
+              "mapping": {
+                "urdu": "جب",
+                "hindi": "जब",
+                "english": "jab"
+              }
+            },
+            {
+              "word": "سے",
+              "meanings": {
+                "urdu": "سے، کی طرف سے",
+                "hindi": "से, की ओर से",
+                "english": "From, by"
+              },
+              "mapping": {
+                "urdu": "سے",
+                "hindi": "से",
+                "english": "se"
+              }
+            },
+            {
+              "word": "وہ",
+              "meanings": {
+                "urdu": "وہ، اس",
+                "hindi": "वह, उस",
+                "english": "He, that"
+              },
+              "mapping": {
+                "urdu": "وہ",
+                "hindi": "वह",
+                "english": "woh"
+              }
+            },
+            {
               "word": "خدمت",
               "meanings": {
-                "urdu": "خدمت، بندگی",
-                "hindi": "सेवा, भक्ति",
+                "urdu": "خدمت، خدمت گزاری",
+                "hindi": "ख़िदमत, सेवा",
                 "english": "Service, devotion"
               },
               "mapping": {
@@ -1069,14 +2109,27 @@
             {
               "word": "انگلی",
               "meanings": {
-                "urdu": "انگلی، اصبع",
-                "hindi": "उंगली, अंगुलि",
+                "urdu": "انگلی، انگشت",
+                "hindi": "उँगली, अंगुली",
                 "english": "Finger"
               },
               "mapping": {
                 "urdu": "انگلی",
-                "hindi": "उंगली",
+                "hindi": "उँगली",
                 "english": "ungli"
+              }
+            },
+            {
+              "word": "اک",
+              "meanings": {
+                "urdu": "ایک، واحد",
+                "hindi": "एक, अकेला",
+                "english": "One, single"
+              },
+              "mapping": {
+                "urdu": "اک",
+                "hindi": "एक",
+                "english": "ek"
               }
             },
             {
@@ -1084,12 +2137,12 @@
               "meanings": {
                 "urdu": "اشارہ، علامت",
                 "hindi": "इशारा, संकेत",
-                "english": "Gesture, signal"
+                "english": "Gesture, sign"
               },
               "mapping": {
                 "urdu": "اشارے",
                 "hindi": "इशारे",
-                "english": "ishare"
+                "english": "ishaare"
               }
             },
             {
@@ -1108,7 +2161,7 @@
             {
               "word": "قمر",
               "meanings": {
-                "urdu": "چاند، ماہ",
+                "urdu": "چاند، قمر",
                 "hindi": "चाँद, चंद्र",
                 "english": "Moon"
               },
@@ -1121,35 +2174,113 @@
             {
               "word": "منکر",
               "meanings": {
-                "urdu": "انکار کرنے والا",
-                "hindi": "नकारने वाला",
+                "urdu": "منکر، انکار کرنے والا",
+                "hindi": "मुनकिर, नकारने वाला",
                 "english": "Denier, skeptic"
               },
               "mapping": {
                 "urdu": "منکر",
-                "hindi": "मुंकिर",
+                "hindi": "मुनकिर",
                 "english": "munkir"
+              }
+            },
+            {
+              "word": "یہ",
+              "meanings": {
+                "urdu": "یہ، اس",
+                "hindi": "यह, उस",
+                "english": "This, that"
+              },
+              "mapping": {
+                "urdu": "یہ",
+                "hindi": "यह",
+                "english": "yeh"
+              }
+            },
+            {
+              "word": "دیکھ",
+              "meanings": {
+                "urdu": "دیکھنا، مشاہدہ کرنا",
+                "hindi": "देखना, अवलोकन करना",
+                "english": "See, observe"
+              },
+              "mapping": {
+                "urdu": "دیکھ",
+                "hindi": "देख",
+                "english": "dekh"
+              }
+            },
+            {
+              "word": "کتنی",
+              "meanings": {
+                "urdu": "کتنا، کتنی",
+                "hindi": "कितना, कितनी",
+                "english": "How much, how many"
+              },
+              "mapping": {
+                "urdu": "کتنی",
+                "hindi": "कितनी",
+                "english": "kitni"
+              }
+            },
+            {
+              "word": "بس",
+              "meanings": {
+                "urdu": "بس، صرف",
+                "hindi": "बस, केवल",
+                "english": "Only, just"
+              },
+              "mapping": {
+                "urdu": "بس",
+                "hindi": "बस",
+                "english": "bas"
+              }
+            },
+            {
+              "word": "ہی",
+              "meanings": {
+                "urdu": "ہی، صرف",
+                "hindi": "ही, केवल",
+                "english": "Only, indeed"
+              },
+              "mapping": {
+                "urdu": "ہی",
+                "hindi": "ही",
+                "english": "hi"
               }
             },
             {
               "word": "مسکرائے",
               "meanings": {
-                "urdu": "مسکراہٹ، ہنسی",
-                "hindi": "मुस्कुराहट, हँसी",
-                "english": "Smile, laughter"
+                "urdu": "مسکراہٹ، ہنسنا",
+                "hindi": "मुस्कुराना, हँसना",
+                "english": "Smile, laugh"
               },
               "mapping": {
                 "urdu": "مسکرائے",
-                "hindi": "मुस्कराए",
-                "english": "muskuraye"
+                "hindi": "मुस्कुराए",
+                "english": "muskuraaye"
+              }
+            },
+            {
+              "word": "گا",
+              "meanings": {
+                "urdu": "گا، مستقبل",
+                "hindi": "गा, भविष्य",
+                "english": "Will"
+              },
+              "mapping": {
+                "urdu": "گا",
+                "hindi": "गा",
+                "english": "ga"
               }
             },
             {
               "word": "محشر",
               "meanings": {
-                "urdu": "قیامت، روز جزا",
-                "hindi": "प्रलय, कयामत",
-                "english": "Doomsday, judgment day"
+                "urdu": "قیامت، محشر",
+                "hindi": "क़यामत, महशर",
+                "english": "Day of Judgment, resurrection"
               },
               "mapping": {
                 "urdu": "محشر",
@@ -1158,11 +2289,24 @@
               }
             },
             {
+              "word": "دیکھنا",
+              "meanings": {
+                "urdu": "دیکھنا، مشاہدہ کرنا",
+                "hindi": "देखना, अवलोकन करना",
+                "english": "See, observe"
+              },
+              "mapping": {
+                "urdu": "دیکھنا",
+                "hindi": "देखना",
+                "english": "dekhna"
+              }
+            },
+            {
               "word": "عادت",
               "meanings": {
-                "urdu": "عادت، خصلت",
-                "hindi": "आदत, स्वभाव",
-                "english": "Habit, nature"
+                "urdu": "عادت، روش",
+                "hindi": "आदत, रवैया",
+                "english": "Habit, custom"
               },
               "mapping": {
                 "urdu": "عادت",
@@ -1171,24 +2315,37 @@
               }
             },
             {
+              "word": "کرنی",
+              "meanings": {
+                "urdu": "کرنا، عمل",
+                "hindi": "करना, कार्य",
+                "english": "Do, act"
+              },
+              "mapping": {
+                "urdu": "کرنی",
+                "hindi": "करनी",
+                "english": "karni"
+              }
+            },
+            {
               "word": "اطاعت",
               "meanings": {
-                "urdu": "فرمانبرداری، تابعداری",
-                "hindi": "आज्ञाकारिता, अनुपालन",
+                "urdu": "اطاعت، فرمانبرداری",
+                "hindi": "इताअत, आज्ञाकारिता",
                 "english": "Obedience, compliance"
               },
               "mapping": {
                 "urdu": "اطاعت",
                 "hindi": "इताअत",
-                "english": "itaat"
+                "english": "ita’at"
               }
             },
             {
               "word": "ثانی",
               "meanings": {
-                "urdu": "شاعر کا تخلص",
-                "hindi": "कवि का तख़ल्लुस",
-                "english": "Poet’s pen name"
+                "urdu": "ثانی، شاعر کا تخلص",
+                "hindi": "सानी, कवि का तख़ल्लुस",
+                "english": "Saani, poet’s pen name"
               },
               "mapping": {
                 "urdu": "ثانی",
@@ -1197,9 +2354,35 @@
               }
             },
             {
+              "word": "پاس",
+              "meanings": {
+                "urdu": "پاس، قریب",
+                "hindi": "पास, निकट",
+                "english": "Near, with"
+              },
+              "mapping": {
+                "urdu": "پاس",
+                "hindi": "पास",
+                "english": "paas"
+              }
+            },
+            {
+              "word": "کچھ",
+              "meanings": {
+                "urdu": "کچھ، کچھ بھی",
+                "hindi": "कुछ, कुछ भी",
+                "english": "Some, anything"
+              },
+              "mapping": {
+                "urdu": "کچھ",
+                "hindi": "कुछ",
+                "english": "kuchh"
+              }
+            },
+            {
               "word": "نیکی",
               "meanings": {
-                "urdu": "اچھائی، بھلائی",
+                "urdu": "نیکی، بھلائی",
                 "hindi": "नेकी, भलाई",
                 "english": "Goodness, virtue"
               },
@@ -1210,10 +2393,49 @@
               }
             },
             {
+              "word": "نام",
+              "meanings": {
+                "urdu": "نام، شناخت",
+                "hindi": "नाम, पहचान",
+                "english": "Name, title"
+              },
+              "mapping": {
+                "urdu": "نام",
+                "hindi": "नाम",
+                "english": "naam"
+              }
+            },
+            {
+              "word": "اگر",
+              "meanings": {
+                "urdu": "اگر، بشرطیکہ",
+                "hindi": "अगर, यदि",
+                "english": "If"
+              },
+              "mapping": {
+                "urdu": "اگر",
+                "hindi": "अगर",
+                "english": "agar"
+              }
+            },
+            {
+              "word": "تو",
+              "meanings": {
+                "urdu": "تو، پھر",
+                "hindi": "तो, फिर",
+                "english": "Then, so"
+              },
+              "mapping": {
+                "urdu": "تو",
+                "hindi": "तो",
+                "english": "to"
+              }
+            },
+            {
               "word": "محبت",
               "meanings": {
-                "urdu": "پیار، عشق",
-                "hindi": "प्रेम, मोहब्बत",
+                "urdu": "محبت، پیار",
+                "hindi": "मोहब्बत, प्रेम",
                 "english": "Love, affection"
               },
               "mapping": {
@@ -1229,6 +2451,45 @@
           "title": "(نعتِ پاکﷺ)جس کا بھی محمد سے واسطہ نہیں ہوگا",
           "word_meanings": [
             {
+              "word": "جس",
+              "meanings": {
+                "urdu": "جو، جس",
+                "hindi": "जो, जिस",
+                "english": "Which, who"
+              },
+              "mapping": {
+                "urdu": "جس",
+                "hindi": "जिस",
+                "english": "jis"
+              }
+            },
+            {
+              "word": "کا",
+              "meanings": {
+                "urdu": "کا، کی، کے",
+                "hindi": "का, की, के",
+                "english": "Of, belonging to"
+              },
+              "mapping": {
+                "urdu": "کا",
+                "hindi": "का",
+                "english": "ka"
+              }
+            },
+            {
+              "word": "بھی",
+              "meanings": {
+                "urdu": "بھی، حتیٰ کہ",
+                "hindi": "भी, यहाँ तक कि",
+                "english": "Also, even"
+              },
+              "mapping": {
+                "urdu": "بھی",
+                "hindi": "भी",
+                "english": "bhi"
+              }
+            },
+            {
               "word": "محمد",
               "meanings": {
                 "urdu": "نبی کا نام",
@@ -1239,6 +2500,19 @@
                 "urdu": "محمد",
                 "hindi": "मुहम्मद",
                 "english": "Muhammad"
+              }
+            },
+            {
+              "word": "سے",
+              "meanings": {
+                "urdu": "سے، کے ساتھ",
+                "hindi": "से, के साथ",
+                "english": "From, with"
+              },
+              "mapping": {
+                "urdu": "سے",
+                "hindi": "से",
+                "english": "se"
               }
             },
             {
@@ -1255,6 +2529,97 @@
               }
             },
             {
+              "word": "نہیں",
+              "meanings": {
+                "urdu": "نہیں، نا",
+                "hindi": "नहीं, ना",
+                "english": "Not, no"
+              },
+              "mapping": {
+                "urdu": "نہیں",
+                "hindi": "नहीं",
+                "english": "nahi"
+              }
+            },
+            {
+              "word": "ہوگا",
+              "meanings": {
+                "urdu": "ہوگا، ہو جائے گا",
+                "hindi": "होगा, हो जाएगा",
+                "english": "Will be, shall be"
+              },
+              "mapping": {
+                "urdu": "ہوگا",
+                "hindi": "होगा",
+                "english": "hoga"
+              }
+            },
+            {
+              "word": "یہ",
+              "meanings": {
+                "urdu": "یہ، اس",
+                "hindi": "यह, वह",
+                "english": "This, that"
+              },
+              "mapping": {
+                "urdu": "یہ",
+                "hindi": "यह",
+                "english": "yeh"
+              }
+            },
+            {
+              "word": "سمجھ",
+              "meanings": {
+                "urdu": "سمجھنا، جاننا",
+                "hindi": "समझना, जानना",
+                "english": "Understand, know"
+              },
+              "mapping": {
+                "urdu": "سمجھ",
+                "hindi": "समझ",
+                "english": "samajh"
+              }
+            },
+            {
+              "word": "لو",
+              "meanings": {
+                "urdu": "لو، لینا",
+                "hindi": "लो, लेना",
+                "english": "Take, accept"
+              },
+              "mapping": {
+                "urdu": "لو",
+                "hindi": "लो",
+                "english": "lo"
+              }
+            },
+            {
+              "word": "اس",
+              "meanings": {
+                "urdu": "اس، یہ",
+                "hindi": "इस, यह",
+                "english": "This, that"
+              },
+              "mapping": {
+                "urdu": "اس",
+                "hindi": "इस",
+                "english": "is"
+              }
+            },
+            {
+              "word": "توکچھ",
+              "meanings": {
+                "urdu": "کچھ بھی، کوئی چیز",
+                "hindi": "कुछ भी, कोई चीज़",
+                "english": "Anything, something"
+              },
+              "mapping": {
+                "urdu": "توکچھ",
+                "hindi": "तो कुछ",
+                "english": "to kuch"
+              }
+            },
+            {
               "word": "بھلا",
               "meanings": {
                 "urdu": "اچھائی، خیر",
@@ -1265,6 +2630,32 @@
                 "urdu": "بھلا",
                 "hindi": "भला",
                 "english": "bhala"
+              }
+            },
+            {
+              "word": "وہ",
+              "meanings": {
+                "urdu": "وہ، اس",
+                "hindi": "वह, यह",
+                "english": "He, that"
+              },
+              "mapping": {
+                "urdu": "وہ",
+                "hindi": "वह",
+                "english": "woh"
+              }
+            },
+            {
+              "word": "کھڑا",
+              "meanings": {
+                "urdu": "کھڑا، قائم",
+                "hindi": "खड़ा, स्थिर",
+                "english": "Standing, upright"
+              },
+              "mapping": {
+                "urdu": "کھڑا",
+                "hindi": "खड़ा",
+                "english": "khada"
               }
             },
             {
@@ -1281,6 +2672,19 @@
               }
             },
             {
+              "word": "کی",
+              "meanings": {
+                "urdu": "کا، کی، کے",
+                "hindi": "का, की, के",
+                "english": "Of, belonging to"
+              },
+              "mapping": {
+                "urdu": "کی",
+                "hindi": "की",
+                "english": "ki"
+              }
+            },
+            {
               "word": "صف",
               "meanings": {
                 "urdu": "قطار، صف",
@@ -1291,6 +2695,19 @@
                 "urdu": "صف",
                 "hindi": "सफ़",
                 "english": "saf"
+              }
+            },
+            {
+              "word": "میں",
+              "meanings": {
+                "urdu": "میں، اندر",
+                "hindi": "में, अंदर",
+                "english": "In, inside"
+              },
+              "mapping": {
+                "urdu": "میں",
+                "hindi": "में",
+                "english": "mein"
               }
             },
             {
@@ -1320,6 +2737,19 @@
               }
             },
             {
+              "word": "کے",
+              "meanings": {
+                "urdu": "کا، کی، کے",
+                "hindi": "का, की, के",
+                "english": "Of, belonging to"
+              },
+              "mapping": {
+                "urdu": "کے",
+                "hindi": "के",
+                "english": "ke"
+              }
+            },
+            {
               "word": "سینے",
               "meanings": {
                 "urdu": "سینہ، دل",
@@ -1333,16 +2763,107 @@
               }
             },
             {
-              "word": "خلد",
+              "word": "آپ",
               "meanings": {
-                "urdu": "جنت، بہشت",
-                "hindi": "स्वर्ग, जन्नत",
-                "english": "Paradise, heaven"
+                "urdu": "آپ، تم",
+                "hindi": "आप, तुम",
+                "english": "You"
               },
               "mapping": {
-                "urdu": "خلد",
-                "hindi": "ख़ुल्द",
-                "english": "khuld"
+                "urdu": "آپ",
+                "hindi": "आप",
+                "english": "aap"
+              }
+            },
+            {
+              "word": "تک",
+              "meanings": {
+                "urdu": "تک، حد",
+                "hindi": "तक, सीमा",
+                "english": "Until, up to"
+              },
+              "mapping": {
+                "urdu": "تک",
+                "hindi": "तक",
+                "english": "tak"
+              }
+            },
+            {
+              "word": "نہ",
+              "meanings": {
+                "urdu": "نہ، نہیں",
+                "hindi": "न, नहीं",
+                "english": "Not, no"
+              },
+              "mapping": {
+                "urdu": "نہ",
+                "hindi": "न",
+                "english": "na"
+              }
+            },
+            {
+              "word": "پہنچے",
+              "meanings": {
+                "urdu": "پہنچنا، حاصل کرنا",
+                "hindi": "पहुँचना, प्राप्त करना",
+                "english": "Reach, attain"
+              },
+              "mapping": {
+                "urdu": "پہنچے",
+                "hindi": "पहुँचे",
+                "english": "pohanche"
+              }
+            },
+            {
+              "word": "گا",
+              "meanings": {
+                "urdu": "گا، ہوگا",
+                "hindi": "गा, होगा",
+                "english": "Will, shall"
+              },
+              "mapping": {
+                "urdu": "گا",
+                "hindi": "गा",
+                "english": "ga"
+              }
+            },
+            {
+              "word": "چاہے",
+              "meanings": {
+                "urdu": "چاہے، خواہ",
+                "hindi": "चाहे, इच्छा",
+                "english": "Even if, though"
+              },
+              "mapping": {
+                "urdu": "چاہے",
+                "hindi": "चाहे",
+                "english": "chahay"
+              }
+            },
+            {
+              "word": "کوئی",
+              "meanings": {
+                "urdu": "کوئی، کوئی ایک",
+                "hindi": "कोई, कोई एक",
+                "english": "Someone, any"
+              },
+              "mapping": {
+                "urdu": "کوئی",
+                "hindi": "कोई",
+                "english": "koi"
+              }
+            },
+            {
+              "word": "ہو",
+              "meanings": {
+                "urdu": "ہونا، بننا",
+                "hindi": "होना, बनना",
+                "english": "Be, become"
+              },
+              "mapping": {
+                "urdu": "ہو",
+                "hindi": "हो",
+                "english": "ho"
               }
             },
             {
@@ -1382,6 +2903,45 @@
                 "urdu": "والے",
                 "hindi": "वाले",
                 "english": "waale"
+              }
+            },
+            {
+              "word": "گر",
+              "meanings": {
+                "urdu": "اگر، بشرطیکہ",
+                "hindi": "यदि, अगर",
+                "english": "If, provided that"
+              },
+              "mapping": {
+                "urdu": "گر",
+                "hindi": "गर",
+                "english": "gar"
+              }
+            },
+            {
+              "word": "چلا",
+              "meanings": {
+                "urdu": "چلانا، روانہ کرنا",
+                "hindi": "चलाना, रवाना करना",
+                "english": "Move, send"
+              },
+              "mapping": {
+                "urdu": "چلا",
+                "hindi": "चला",
+                "english": "chala"
+              }
+            },
+            {
+              "word": "نا",
+              "meanings": {
+                "urdu": "نہ، نہیں",
+                "hindi": "न, नहीं",
+                "english": "Not, no"
+              },
+              "mapping": {
+                "urdu": "نا",
+                "hindi": "न",
+                "english": "na"
               }
             },
             {
@@ -1437,6 +2997,19 @@
               }
             },
             {
+              "word": "کچھ",
+              "meanings": {
+                "urdu": "کچھ، کوئی چیز",
+                "hindi": "कुछ, कोई चीज़",
+                "english": "Some, something"
+              },
+              "mapping": {
+                "urdu": "کچھ",
+                "hindi": "कुछ",
+                "english": "kuch"
+              }
+            },
+            {
               "word": "باخدا",
               "meanings": {
                 "urdu": "خدا کے ساتھ، قسم",
@@ -1463,6 +3036,45 @@
               }
             },
             {
+              "word": "کھا",
+              "meanings": {
+                "urdu": "کھانا، استعمال کرنا",
+                "hindi": "खाना, उपयोग करना",
+                "english": "Eat, use"
+              },
+              "mapping": {
+                "urdu": "کھا",
+                "hindi": "खा",
+                "english": "kha"
+              }
+            },
+            {
+              "word": "کر",
+              "meanings": {
+                "urdu": "کرنا، عمل کرنا",
+                "hindi": "करना, कार्य करना",
+                "english": "Do, perform"
+              },
+              "mapping": {
+                "urdu": "کر",
+                "hindi": "कर",
+                "english": "kar"
+              }
+            },
+            {
+              "word": "جو",
+              "meanings": {
+                "urdu": "جو، وہ",
+                "hindi": "जो, वह",
+                "english": "Who, that"
+              },
+              "mapping": {
+                "urdu": "جو",
+                "hindi": "जो",
+                "english": "jo"
+              }
+            },
+            {
               "word": "دعائیں",
               "meanings": {
                 "urdu": "دعا، پرارتھنا",
@@ -1473,6 +3085,32 @@
                 "urdu": "دعائیں",
                 "hindi": "दुआएँ",
                 "english": "duayein"
+              }
+            },
+            {
+              "word": "دیتا",
+              "meanings": {
+                "urdu": "دینا، عطا کرنا",
+                "hindi": "देना, प्रदान करना",
+                "english": "Give, grant"
+              },
+              "mapping": {
+                "urdu": "دیتا",
+                "hindi": "देता",
+                "english": "deta"
+              }
+            },
+            {
+              "word": "اک",
+              "meanings": {
+                "urdu": "ایک، واحد",
+                "hindi": "एक",
+                "english": "One"
+              },
+              "mapping": {
+                "urdu": "اک",
+                "hindi": "एक",
+                "english": "ek"
               }
             },
             {
@@ -1499,6 +3137,19 @@
                 "urdu": "احمد",
                 "hindi": "अहमद",
                 "english": "Ahmad"
+              }
+            },
+            {
+              "word": "کے",
+              "meanings": {
+                "urdu": "کا، کی، کے",
+                "hindi": "का, की, के",
+                "english": "Of, belonging to"
+              },
+              "mapping": {
+                "urdu": "کے",
+                "hindi": "के",
+                "english": "ke"
               }
             },
             {
@@ -1541,6 +3192,84 @@
               }
             },
             {
+              "word": "سوا",
+              "meanings": {
+                "urdu": "علاوہ، بغیر",
+                "hindi": "सिवा, बिना",
+                "english": "Except, besides"
+              },
+              "mapping": {
+                "urdu": "سوا",
+                "hindi": "सिवा",
+                "english": "siwa"
+              }
+            },
+            {
+              "word": "بولے",
+              "meanings": {
+                "urdu": "بولنا، کہنا",
+                "hindi": "बोलना, कहना",
+                "english": "Speak, say"
+              },
+              "mapping": {
+                "urdu": "بولے",
+                "hindi": "बोले",
+                "english": "bole"
+              }
+            },
+            {
+              "word": "ایسا",
+              "meanings": {
+                "urdu": "ایسا، اس طرح",
+                "hindi": "ऐसा, इस प्रकार",
+                "english": "Such, like this"
+              },
+              "mapping": {
+                "urdu": "ایسا",
+                "hindi": "ऐसा",
+                "english": "aisa"
+              }
+            },
+            {
+              "word": "اور",
+              "meanings": {
+                "urdu": "اور، دیگر",
+                "hindi": "और, अन्य",
+                "english": "And, other"
+              },
+              "mapping": {
+                "urdu": "اور",
+                "hindi": "और",
+                "english": "aur"
+              }
+            },
+            {
+              "word": "کسی",
+              "meanings": {
+                "urdu": "کوئی، کسی",
+                "hindi": "कोई, किसी",
+                "english": "Someone, anyone"
+              },
+              "mapping": {
+                "urdu": "کسی",
+                "hindi": "किसी",
+                "english": "kisi"
+              }
+            },
+            {
+              "word": "کو",
+              "meanings": {
+                "urdu": "کے لئے، طرف",
+                "hindi": "के लिए, की ओर",
+                "english": "To, toward"
+              },
+              "mapping": {
+                "urdu": "کو",
+                "hindi": "को",
+                "english": "ko"
+              }
+            },
+            {
               "word": "حوصلہ",
               "meanings": {
                 "urdu": "ہمت، جرات",
@@ -1551,6 +3280,19 @@
                 "urdu": "حوصلہ",
                 "hindi": "हौसला",
                 "english": "hausla"
+              }
+            },
+            {
+              "word": "ہوا",
+              "meanings": {
+                "urdu": "ہونا، واقع ہونا",
+                "hindi": "होना, घटित होना",
+                "english": "Happen, occur"
+              },
+              "mapping": {
+                "urdu": "ہوا",
+                "hindi": "हुआ",
+                "english": "hua"
               }
             },
             {
@@ -1580,6 +3322,45 @@
               }
             },
             {
+              "word": "پڑھتے",
+              "meanings": {
+                "urdu": "پڑھنا، تلاوت کرنا",
+                "hindi": "पढ़ना, पाठ करना",
+                "english": "Read, recite"
+              },
+              "mapping": {
+                "urdu": "پڑھتے",
+                "hindi": "पढ़ते",
+                "english": "padhte"
+              }
+            },
+            {
+              "word": "تم",
+              "meanings": {
+                "urdu": "تم، آپ",
+                "hindi": "तुम, आप",
+                "english": "You"
+              },
+              "mapping": {
+                "urdu": "تم",
+                "hindi": "तुम",
+                "english": "tum"
+              }
+            },
+            {
+              "word": "ہر",
+              "meanings": {
+                "urdu": "ہر، سب",
+                "hindi": "हर, सभी",
+                "english": "Every, all"
+              },
+              "mapping": {
+                "urdu": "ہر",
+                "hindi": "हर",
+                "english": "har"
+              }
+            },
+            {
               "word": "گھڑی",
               "meanings": {
                 "urdu": "وقت، لمحہ",
@@ -1593,6 +3374,19 @@
               }
             },
             {
+              "word": "رہو",
+              "meanings": {
+                "urdu": "رہنا، قیام کرنا",
+                "hindi": "रहना, ठहरना",
+                "english": "Stay, remain"
+              },
+              "mapping": {
+                "urdu": "رہو",
+                "hindi": "रहो",
+                "english": "raho"
+              }
+            },
+            {
               "word": "ثانی",
               "meanings": {
                 "urdu": "شاعر کا تخلص",
@@ -1603,6 +3397,45 @@
                 "urdu": "ثانی",
                 "hindi": "सानी",
                 "english": "Saani"
+              }
+            },
+            {
+              "word": "دیکھنا",
+              "meanings": {
+                "urdu": "دیکھنا، مشاہدہ کرنا",
+                "hindi": "देखना, निरीक्षण करना",
+                "english": "See, observe"
+              },
+              "mapping": {
+                "urdu": "دیکھنا",
+                "hindi": "देखना",
+                "english": "dekhna"
+              }
+            },
+            {
+              "word": "تمہارے",
+              "meanings": {
+                "urdu": "تمہارا، تمہاری",
+                "hindi": "तुम्हारा, तुम्हारी",
+                "english": "Your, yours"
+              },
+              "mapping": {
+                "urdu": "تمہارے",
+                "hindi": "तुम्हारे",
+                "english": "tumhare"
+              }
+            },
+            {
+              "word": "ساتھ",
+              "meanings": {
+                "urdu": "ساتھ، ہمراہ",
+                "hindi": "साथ, सहित",
+                "english": "With, along"
+              },
+              "mapping": {
+                "urdu": "ساتھ",
+                "hindi": "साथ",
+                "english": "saath"
               }
             },
             {
@@ -1631,6 +3464,71 @@
           "title": "اک بار مجھے بھی تو طیبہ کو دکھا دے رب",
           "word_meanings": [
             {
+              "word": "اک",
+              "meanings": {
+                "urdu": "ایک، واحد",
+                "hindi": "एक",
+                "english": "One"
+              },
+              "mapping": {
+                "urdu": "اک",
+                "hindi": "एक",
+                "english": "ek"
+              }
+            },
+            {
+              "word": "بار",
+              "meanings": {
+                "urdu": "دفعہ، مرتبہ",
+                "hindi": "बार, अवसर",
+                "english": "Time, occasion"
+              },
+              "mapping": {
+                "urdu": "بار",
+                "hindi": "बार",
+                "english": "baar"
+              }
+            },
+            {
+              "word": "مجھے",
+              "meanings": {
+                "urdu": "مجھ کو",
+                "hindi": "मुझे",
+                "english": "To me"
+              },
+              "mapping": {
+                "urdu": "مجھے",
+                "hindi": "मुझे",
+                "english": "mujhe"
+              }
+            },
+            {
+              "word": "بھی",
+              "meanings": {
+                "urdu": "بھی، حتیٰ کہ",
+                "hindi": "भी, यहाँ तक कि",
+                "english": "Also, even"
+              },
+              "mapping": {
+                "urdu": "بھی",
+                "hindi": "भी",
+                "english": "bhi"
+              }
+            },
+            {
+              "word": "تو",
+              "meanings": {
+                "urdu": "تو، پھر",
+                "hindi": "तो, फिर",
+                "english": "Then, so"
+              },
+              "mapping": {
+                "urdu": "تو",
+                "hindi": "तो",
+                "english": "to"
+              }
+            },
+            {
               "word": "طیبہ",
               "meanings": {
                 "urdu": "مدینہ، پاک شہر",
@@ -1641,6 +3539,45 @@
                 "urdu": "طیبہ",
                 "hindi": "तैबा",
                 "english": "Taiba"
+              }
+            },
+            {
+              "word": "کو",
+              "meanings": {
+                "urdu": "کے لئے، طرف",
+                "hindi": "के लिए, की ओर",
+                "english": "To, toward"
+              },
+              "mapping": {
+                "urdu": "کو",
+                "hindi": "को",
+                "english": "ko"
+              }
+            },
+            {
+              "word": "دکھا",
+              "meanings": {
+                "urdu": "دکھانا، ظاہر کرنا",
+                "hindi": "दिखाना, प्रकट करना",
+                "english": "Show, reveal"
+              },
+              "mapping": {
+                "urdu": "دکھا",
+                "hindi": "दिखा",
+                "english": "dikha"
+              }
+            },
+            {
+              "word": "دے",
+              "meanings": {
+                "urdu": "دینا، عطا کرنا",
+                "hindi": "देना, प्रदान करना",
+                "english": "Give, grant"
+              },
+              "mapping": {
+                "urdu": "دے",
+                "hindi": "दे",
+                "english": "de"
               }
             },
             {
@@ -1657,9 +3594,48 @@
               }
             },
             {
+              "word": "سوئی",
+              "meanings": {
+                "urdu": "سونا، غیر فعال",
+                "hindi": "सोना, निष्क्रिय",
+                "english": "Sleep, inactive"
+              },
+              "mapping": {
+                "urdu": "سوئی",
+                "hindi": "सोई",
+                "english": "soi"
+              }
+            },
+            {
+              "word": "ہے",
+              "meanings": {
+                "urdu": "ہے، موجود",
+                "hindi": "है, मौजूद",
+                "english": "Is, exists"
+              },
+              "mapping": {
+                "urdu": "ہے",
+                "hindi": "है",
+                "english": "hai"
+              }
+            },
+            {
+              "word": "میری",
+              "meanings": {
+                "urdu": "میرا، میری",
+                "hindi": "मेरा, मेरी",
+                "english": "My, mine"
+              },
+              "mapping": {
+                "urdu": "میری",
+                "hindi": "मेरी",
+                "english": "meri"
+              }
+            },
+            {
               "word": "قسمت",
               "meanings": {
-                "urdu": "بخت، نصیب",
+                "urdu": "تقدیر، نصیب",
                 "hindi": "भाग्य, नसीब",
                 "english": "Fate, destiny"
               },
@@ -1670,16 +3646,81 @@
               }
             },
             {
+              "word": "جگا",
+              "meanings": {
+                "urdu": "جاگنا، بیدار کرنا",
+                "hindi": "जागना, जगाना",
+                "english": "Awaken, arouse"
+              },
+              "mapping": {
+                "urdu": "جگا",
+                "hindi": "जगा",
+                "english": "jaga"
+              }
+            },
+            {
+              "word": "دنیا",
+              "meanings": {
+                "urdu": "جهان، دھرتی",
+                "hindi": "दुनिया, संसार",
+                "english": "World, earth"
+              },
+              "mapping": {
+                "urdu": "دنیا",
+                "hindi": "दुनिया",
+                "english": "dunya"
+              }
+            },
+            {
+              "word": "میں",
+              "meanings": {
+                "urdu": "میں، اندر",
+                "hindi": "में, अंदर",
+                "english": "In, inside"
+              },
+              "mapping": {
+                "urdu": "میں",
+                "hindi": "में",
+                "english": "mein"
+              }
+            },
+            {
               "word": "جہالت",
               "meanings": {
-                "urdu": "نادانی، بے علمی",
-                "hindi": "अज्ञानता, अनपढ़ता",
-                "english": "Ignorance, illiteracy"
+                "urdu": "نادانی، ناواقفیت",
+                "hindi": "अज्ञान, अनभिज्ञता",
+                "english": "Ignorance, unawareness"
               },
               "mapping": {
                 "urdu": "جہالت",
-                "hindi": "जहालत",
+                "hindi": "जाहिलत",
                 "english": "jahalat"
+              }
+            },
+            {
+              "word": "کی",
+              "meanings": {
+                "urdu": "کا، کی، کے",
+                "hindi": "का, की, के",
+                "english": "Of, belonging to"
+              },
+              "mapping": {
+                "urdu": "کی",
+                "hindi": "की",
+                "english": "ki"
+              }
+            },
+            {
+              "word": "چھائی",
+              "meanings": {
+                "urdu": "چھایا ہوا، پھیلا ہوا",
+                "hindi": "छाया हुआ, फैला हुआ",
+                "english": "Spread, covered"
+              },
+              "mapping": {
+                "urdu": "چھائی",
+                "hindi": "छाई",
+                "english": "chhai"
               }
             },
             {
@@ -1696,10 +3737,36 @@
               }
             },
             {
+              "word": "ہر",
+              "meanings": {
+                "urdu": "ہر، سب",
+                "hindi": "हर, सभी",
+                "english": "Every, all"
+              },
+              "mapping": {
+                "urdu": "ہر",
+                "hindi": "हर",
+                "english": "har"
+              }
+            },
+            {
+              "word": "سو",
+              "meanings": {
+                "urdu": "طرف، جانب",
+                "hindi": "तरफ़, दिशा",
+                "english": "Side, direction"
+              },
+              "mapping": {
+                "urdu": "سو",
+                "hindi": "सू",
+                "english": "su"
+              }
+            },
+            {
               "word": "نور",
               "meanings": {
-                "urdu": "روشنی، نور",
-                "hindi": "प्रकाश, नूर",
+                "urdu": "روشنی، چمک",
+                "hindi": "प्रकाश, चमक",
                 "english": "Light, radiance"
               },
               "mapping": {
@@ -1735,9 +3802,22 @@
               }
             },
             {
+              "word": "چلا",
+              "meanings": {
+                "urdu": "چلانا، روانہ کرنا",
+                "hindi": "चलाना, रवाना करना",
+                "english": "Move, send"
+              },
+              "mapping": {
+                "urdu": "چلا",
+                "hindi": "चला",
+                "english": "chala"
+              }
+            },
+            {
               "word": "عاصی",
               "meanings": {
-                "urdu": "گناہگار، نافرمان",
+                "urdu": "گنہگار، نافرمان",
                 "hindi": "पापी, अवज्ञाकारी",
                 "english": "Sinner, disobedient"
               },
@@ -1745,6 +3825,45 @@
                 "urdu": "عاصی",
                 "hindi": "आसी",
                 "english": "aasi"
+              }
+            },
+            {
+              "word": "ہوں",
+              "meanings": {
+                "urdu": "ہوں، موجود ہوں",
+                "hindi": "हूँ, मौजूद हूँ",
+                "english": "Am, exist"
+              },
+              "mapping": {
+                "urdu": "ہوں",
+                "hindi": "हूँ",
+                "english": "hoon"
+              }
+            },
+            {
+              "word": "بہت",
+              "meanings": {
+                "urdu": "بہت، کافی",
+                "hindi": "बहुत, पर्याप्त",
+                "english": "Much, many"
+              },
+              "mapping": {
+                "urdu": "بہت",
+                "hindi": "बहुत",
+                "english": "bahut"
+              }
+            },
+            {
+              "word": "لیکن",
+              "meanings": {
+                "urdu": "لیکن، مگر",
+                "hindi": "लेकिन, परंतु",
+                "english": "But, however"
+              },
+              "mapping": {
+                "urdu": "لیکن",
+                "hindi": "लेकिन",
+                "english": "lekin"
               }
             },
             {
@@ -1757,15 +3876,15 @@
               "mapping": {
                 "urdu": "امید",
                 "hindi": "उम्मीद",
-                "english": "ummeed"
+                "english": "umeed"
               }
             },
             {
               "word": "وابستہ",
               "meanings": {
                 "urdu": "منسلک، تعلق",
-                "hindi": "जुड़ा हुआ, संबंध",
-                "english": "Connected, attached"
+                "hindi": "संलग्न, संबंधित",
+                "english": "Attached, related"
               },
               "mapping": {
                 "urdu": "وابستہ",
@@ -1789,14 +3908,27 @@
             {
               "word": "مرسل",
               "meanings": {
-                "urdu": "پیغمبر، رسول",
-                "hindi": "पैगंबर, रसूल",
-                "english": "Prophet, messenger"
+                "urdu": "پیغمبر، بھیجا گیا",
+                "hindi": "पैगंबर, भेजा गया",
+                "english": "Messenger, sent"
               },
               "mapping": {
                 "urdu": "مرسل",
-                "hindi": "मुर्सल",
-                "english": "Mursal"
+                "hindi": "मुरस्सल",
+                "english": "mursal"
+              }
+            },
+            {
+              "word": "کے",
+              "meanings": {
+                "urdu": "کا، کی، کے",
+                "hindi": "का, की, के",
+                "english": "Of, belonging to"
+              },
+              "mapping": {
+                "urdu": "کے",
+                "hindi": "के",
+                "english": "ke"
               }
             },
             {
@@ -1808,21 +3940,60 @@
               },
               "mapping": {
                 "urdu": "صدقے",
-                "hindi": "सदके",
+                "hindi": "सदक़े",
                 "english": "sadqay"
+              }
+            },
+            {
+              "word": "اپنی",
+              "meanings": {
+                "urdu": "اپنا، اپنی",
+                "hindi": "अपना, अपनी",
+                "english": "Own, one’s own"
+              },
+              "mapping": {
+                "urdu": "اپنی",
+                "hindi": "अपनी",
+                "english": "apni"
               }
             },
             {
               "word": "رضا",
               "meanings": {
-                "urdu": "رضامندی، خوشنودی",
-                "hindi": "संतुष्टि, प्रसन्नता",
-                "english": "Satisfaction, pleasure"
+                "urdu": "خوشنودی، رضامندی",
+                "hindi": "प्रसन्नता, सहमति",
+                "english": "Pleasure, consent"
               },
               "mapping": {
                 "urdu": "رضا",
                 "hindi": "रज़ा",
                 "english": "raza"
+              }
+            },
+            {
+              "word": "جب",
+              "meanings": {
+                "urdu": "جب، جب کہ",
+                "hindi": "जब, जब कि",
+                "english": "When"
+              },
+              "mapping": {
+                "urdu": "جب",
+                "hindi": "जब",
+                "english": "jab"
+              }
+            },
+            {
+              "word": "نے",
+              "meanings": {
+                "urdu": "نے، کی طرف سے",
+                "hindi": "ने, की ओर से",
+                "english": "By, from"
+              },
+              "mapping": {
+                "urdu": "نے",
+                "hindi": "ने",
+                "english": "ne"
               }
             },
             {
@@ -1841,9 +4012,9 @@
             {
               "word": "امت",
               "meanings": {
-                "urdu": "قوم، پیروکار",
-                "hindi": "समुदाय, अनुयायी",
-                "english": "Community, followers"
+                "urdu": "قوم، گروہ",
+                "hindi": "समुदाय, समूह",
+                "english": "Community, nation"
               },
               "mapping": {
                 "urdu": "امت",
@@ -1852,16 +4023,107 @@
               }
             },
             {
+              "word": "کیا",
+              "meanings": {
+                "urdu": "کیا، بنایا",
+                "hindi": "किया, बनाया",
+                "english": "Did, made"
+              },
+              "mapping": {
+                "urdu": "کیا",
+                "hindi": "किया",
+                "english": "kiya"
+              }
+            },
+            {
+              "word": "پیدا",
+              "meanings": {
+                "urdu": "پیدا، بنایا",
+                "hindi": "पैदा, बनाया",
+                "english": "Created, born"
+              },
+              "mapping": {
+                "urdu": "پیدا",
+                "hindi": "पैदा",
+                "english": "paida"
+              }
+            },
+            {
               "word": "لہجہ",
               "meanings": {
                 "urdu": "انداز، لہجہ",
-                "hindi": "लहजा, शैली",
-                "english": "Tone, manner"
+                "hindi": "अंदाज़, लहजा",
+                "english": "Tone, accent"
               },
               "mapping": {
                 "urdu": "لہجہ",
                 "hindi": "लहजा",
                 "english": "lahja"
+              }
+            },
+            {
+              "word": "مرا",
+              "meanings": {
+                "urdu": "میرا، میری",
+                "hindi": "मेरा, मेरी",
+                "english": "My, mine"
+              },
+              "mapping": {
+                "urdu": "مرا",
+                "hindi": "मेरा",
+                "english": "mera"
+              }
+            },
+            {
+              "word": "لہجے",
+              "meanings": {
+                "urdu": "انداز، لہجہ",
+                "hindi": "अंदाज़, लहजा",
+                "english": "Tone, accent"
+              },
+              "mapping": {
+                "urdu": "لہجے",
+                "hindi": "लहजे",
+                "english": "lahje"
+              }
+            },
+            {
+              "word": "سے",
+              "meanings": {
+                "urdu": "سے، کے ساتھ",
+                "hindi": "से, के साथ",
+                "english": "From, with"
+              },
+              "mapping": {
+                "urdu": "سے",
+                "hindi": "से",
+                "english": "se"
+              }
+            },
+            {
+              "word": "ملا",
+              "meanings": {
+                "urdu": "ملانا، جوڑنا",
+                "hindi": "मिलाना, जोड़ना",
+                "english": "Join, unite"
+              },
+              "mapping": {
+                "urdu": "ملا",
+                "hindi": "मिला",
+                "english": "mila"
+              }
+            },
+            {
+              "word": "جس",
+              "meanings": {
+                "urdu": "جو، جس",
+                "hindi": "जो, जिस",
+                "english": "Which, who"
+              },
+              "mapping": {
+                "urdu": "جس",
+                "hindi": "जिस",
+                "english": "jis"
               }
             },
             {
@@ -1878,16 +4140,68 @@
               }
             },
             {
-              "word": "مسافر",
+              "word": "پہ",
               "meanings": {
-                "urdu": "مسافر، راہی",
-                "hindi": "यात्री, राहगीर",
-                "english": "Traveler, wayfarer"
+                "urdu": "پر، اوپر",
+                "hindi": "पर, ऊपर",
+                "english": "On, upon"
               },
               "mapping": {
-                "urdu": "مسافر",
-                "hindi": "मुसाफ़िर",
-                "english": "musafir"
+                "urdu": "پہ",
+                "hindi": "पे",
+                "english": "pe"
+              }
+            },
+            {
+              "word": "چلنے",
+              "meanings": {
+                "urdu": "چلنا، سفر کرنا",
+                "hindi": "चलना, यात्रा करना",
+                "english": "Walk, travel"
+              },
+              "mapping": {
+                "urdu": "چلنے",
+                "hindi": "चलने",
+                "english": "chalne"
+              }
+            },
+            {
+              "word": "ملتی",
+              "meanings": {
+                "urdu": "ملنا، حاصل ہونا",
+                "hindi": "मिलना, प्राप्त होना",
+                "english": "Obtain, receive"
+              },
+              "mapping": {
+                "urdu": "ملتی",
+                "hindi": "मिलती",
+                "english": "milti"
+              }
+            },
+            {
+              "word": "ہو",
+              "meanings": {
+                "urdu": "ہونا، بننا",
+                "hindi": "होना, बनना",
+                "english": "Be, become"
+              },
+              "mapping": {
+                "urdu": "ہو",
+                "hindi": "हो",
+                "english": "ho"
+              }
+            },
+            {
+              "word": "تیری",
+              "meanings": {
+                "urdu": "تیرا، تیری",
+                "hindi": "तेरा, तेरी",
+                "english": "Your, yours"
+              },
+              "mapping": {
+                "urdu": "تیری",
+                "hindi": "तेरी",
+                "english": "teri"
               }
             },
             {
@@ -1902,6 +4216,58 @@
                 "hindi": "सानी",
                 "english": "Saani"
               }
+            },
+            {
+              "word": "مسافر",
+              "meanings": {
+                "urdu": "مسافر، راہی",
+                "hindi": "यात्री, राहगीर",
+                "english": "Traveler, wayfarer"
+              },
+              "mapping": {
+                "urdu": "مسافر",
+                "hindi": "मुसाफ़िर",
+                "english": "musafir"
+              }
+            },
+            {
+              "word": "اس",
+              "meanings": {
+                "urdu": "اس، یہ",
+                "hindi": "इस, यह",
+                "english": "This, that"
+              },
+              "mapping": {
+                "urdu": "اس",
+                "hindi": "इस",
+                "english": "is"
+              }
+            },
+            {
+              "word": "رہ",
+              "meanings": {
+                "urdu": "راستہ، راہ",
+                "hindi": "रास्ता, मार्ग",
+                "english": "Path, way"
+              },
+              "mapping": {
+                "urdu": "رہ",
+                "hindi": "रह",
+                "english": "rah"
+              }
+            },
+            {
+              "word": "بنا",
+              "meanings": {
+                "urdu": "بنانا، تشکیل دینا",
+                "hindi": "बनाना, गठन करना",
+                "english": "Make, create"
+              },
+              "mapping": {
+                "urdu": "بنا",
+                "hindi": "बना",
+                "english": "bana"
+              }
             }
           ]
         }
@@ -1909,12 +4275,1404 @@
     },
     {
       "id": "section_man_ki_yad",
-      "heading": "ماں کی یاد میں",
+      "heading": "ماں کی یاد",
       "items": [
         {
           "id": "man_ki_yad_1",
           "title": "اس دنیا میں تُو نہیں زندہ، اب تنہا گھبراؤں  ماں",
-          "word_meanings": "Placeholder: Word meanings for man_ki_yad_1 not provided as per request."
+          "word_meanings": [
+            {
+              "word": "اس",
+              "meanings": {
+                "urdu": "اس، اسے",
+                "hindi": "इस, इसे",
+                "english": "This, it"
+              },
+              "mapping": {
+                "urdu": "اس",
+                "hindi": "इस",
+                "english": "is"
+              }
+            },
+            {
+              "word": "دنیا",
+              "meanings": {
+                "urdu": "جهان، دُنیا",
+                "hindi": "विश्व, दुनिया",
+                "english": "World, earth"
+              },
+              "mapping": {
+                "urdu": "دنیا",
+                "hindi": "दुनिया",
+                "english": "duniya"
+              }
+            },
+            {
+              "word": "میں",
+              "meanings": {
+                "urdu": "میں، اندر",
+                "hindi": "में, अंदर",
+                "english": "In, within"
+              },
+              "mapping": {
+                "urdu": "میں",
+                "hindi": "में",
+                "english": "mein"
+              }
+            },
+            {
+              "word": "تو",
+              "meanings": {
+                "urdu": "تو، تم",
+                "hindi": "तू, तुम",
+                "english": "You"
+              },
+              "mapping": {
+                "urdu": "تو",
+                "hindi": "तू",
+                "english": "tu"
+              }
+            },
+            {
+              "word": "نہیں",
+              "meanings": {
+                "urdu": "نہیں، نفی",
+                "hindi": "नहीं, नकार",
+                "english": "Not, negation"
+              },
+              "mapping": {
+                "urdu": "نہیں",
+                "hindi": "नहीं",
+                "english": "nahi"
+              }
+            },
+            {
+              "word": "زندہ",
+              "meanings": {
+                "urdu": "زندہ، جیتا",
+                "hindi": "जीवित, ज़िंदा",
+                "english": "Alive, living"
+              },
+              "mapping": {
+                "urdu": "زندہ",
+                "hindi": "ज़िंदा",
+                "english": "zinda"
+              }
+            },
+            {
+              "word": "اب",
+              "meanings": {
+                "urdu": "اب، ابھی",
+                "hindi": "अब, अभी",
+                "english": "Now"
+              },
+              "mapping": {
+                "urdu": "اب",
+                "hindi": "अब",
+                "english": "ab"
+              }
+            },
+            {
+              "word": "تنہا",
+              "meanings": {
+                "urdu": "اکیلا، تنہا",
+                "hindi": "अकेला, तनहा",
+                "english": "Alone, solitary"
+              },
+              "mapping": {
+                "urdu": "تنہا",
+                "hindi": "तनहा",
+                "english": "tanha"
+              }
+            },
+            {
+              "word": "گھبراؤں",
+              "meanings": {
+                "urdu": "گھبرانا، پریشان ہونا",
+                "hindi": "घबराना, परेशान होना",
+                "english": "Be anxious, panic"
+              },
+              "mapping": {
+                "urdu": "گھبراؤں",
+                "hindi": "घबराऊँ",
+                "english": "ghabraaun"
+              }
+            },
+            {
+              "word": "ماں",
+              "meanings": {
+                "urdu": "ماں، والدہ",
+                "hindi": "माँ, माता",
+                "english": "Mother"
+              },
+              "mapping": {
+                "urdu": "ماں",
+                "hindi": "माँ",
+                "english": "maan"
+              }
+            },
+            {
+              "word": "تیری",
+              "meanings": {
+                "urdu": "تیرا، تیری",
+                "hindi": "तेरा, तेरी",
+                "english": "Your"
+              },
+              "mapping": {
+                "urdu": "تیری",
+                "hindi": "तेरी",
+                "english": "teri"
+              }
+            },
+            {
+              "word": "جدائی",
+              "meanings": {
+                "urdu": "جدائی، فراق",
+                "hindi": "जुदाई, वियोग",
+                "english": "Separation, parting"
+              },
+              "mapping": {
+                "urdu": "جدائی",
+                "hindi": "जुदाई",
+                "english": "judaai"
+              }
+            },
+            {
+              "word": "کے",
+              "meanings": {
+                "urdu": "کے، سے",
+                "hindi": "के, से",
+                "english": "Of, from"
+              },
+              "mapping": {
+                "urdu": "کے",
+                "hindi": "के",
+                "english": "ke"
+              }
+            },
+            {
+              "word": "غم",
+              "meanings": {
+                "urdu": "غم، دکھ",
+                "hindi": "ग़म, दुख",
+                "english": "Grief, sorrow"
+              },
+              "mapping": {
+                "urdu": "غم",
+                "hindi": "ग़म",
+                "english": "gham"
+              }
+            },
+            {
+              "word": "سے",
+              "meanings": {
+                "urdu": "سے، کی طرف سے",
+                "hindi": "से, की ओर से",
+                "english": "From, by"
+              },
+              "mapping": {
+                "urdu": "سے",
+                "hindi": "से",
+                "english": "se"
+              }
+            },
+            {
+              "word": "کیسے",
+              "meanings": {
+                "urdu": "کیسے، کس طرح",
+                "hindi": "कैसे, किस तरह",
+                "english": "How"
+              },
+              "mapping": {
+                "urdu": "کیسے",
+                "hindi": "कैसे",
+                "english": "kaise"
+              }
+            },
+            {
+              "word": "دل",
+              "meanings": {
+                "urdu": "دل، قلب",
+                "hindi": "दिल, हृदय",
+                "english": "Heart"
+              },
+              "mapping": {
+                "urdu": "دل",
+                "hindi": "दिल",
+                "english": "dil"
+              }
+            },
+            {
+              "word": "بہلاؤں",
+              "meanings": {
+                "urdu": "بہلانا، دل بہلانا",
+                "hindi": "बहलाना, मन बहलाना",
+                "english": "Console, divert"
+              },
+              "mapping": {
+                "urdu": "بہلاؤں",
+                "hindi": "बहलाऊँ",
+                "english": "bahlaaun"
+              }
+            },
+            {
+              "word": "نہ",
+              "meanings": {
+                "urdu": "نہیں، نفی",
+                "hindi": "नहीं, नकार",
+                "english": "No, not"
+              },
+              "mapping": {
+                "urdu": "نہ",
+                "hindi": "न",
+                "english": "na"
+              }
+            },
+            {
+              "word": "تجھ",
+              "meanings": {
+                "urdu": "تجھ، تم",
+                "hindi": "तुझ, तुम",
+                "english": "You"
+              },
+              "mapping": {
+                "urdu": "تجھ",
+                "hindi": "तुझ",
+                "english": "tujh"
+              }
+            },
+            {
+              "word": "دور",
+              "meanings": {
+                "urdu": "دور، فاصلے پر",
+                "hindi": "दूर, दूरी पर",
+                "english": "Far, distant"
+              },
+              "mapping": {
+                "urdu": "دور",
+                "hindi": "दूर",
+                "english": "door"
+              }
+            },
+            {
+              "word": "ہوا",
+              "meanings": {
+                "urdu": "ہونا، مکمل ہونا",
+                "hindi": "हुआ, पूर्ण होना",
+                "english": "Happened, became"
+              },
+              "mapping": {
+                "urdu": "ہوا",
+                "hindi": "हुआ",
+                "english": "hua"
+              }
+            },
+            {
+              "word": "جب",
+              "meanings": {
+                "urdu": "جب، جب کہ",
+                "hindi": "जब, जब कि",
+                "english": "When"
+              },
+              "mapping": {
+                "urdu": "جب",
+                "hindi": "जब",
+                "english": "jab"
+              }
+            },
+            {
+              "word": "کیوں",
+              "meanings": {
+                "urdu": "کیوں، کس وجہ سے",
+                "hindi": "क्यों, किस कारण",
+                "english": "Why"
+              },
+              "mapping": {
+                "urdu": "کیوں",
+                "hindi": "क्यों",
+                "english": "kyun"
+              }
+            },
+            {
+              "word": "ہوئی",
+              "meanings": {
+                "urdu": "ہونا، ہو گئی",
+                "hindi": "होना, हो गई",
+                "english": "Happened, became"
+              },
+              "mapping": {
+                "urdu": "ہوئی",
+                "hindi": "होई",
+                "english": "hui"
+              }
+            },
+            {
+              "word": "چھوڑ",
+              "meanings": {
+                "urdu": "چھوڑنا، ترک کرنا",
+                "hindi": "छोड़ना, त्यागना",
+                "english": "Leave, abandon"
+              },
+              "mapping": {
+                "urdu": "چھوڑ",
+                "hindi": "छोड़",
+                "english": "chhod"
+              }
+            },
+            {
+              "word": "کو",
+              "meanings": {
+                "urdu": "کو، کی طرف",
+                "hindi": "को, की ओर",
+                "english": "To, towards"
+              },
+              "mapping": {
+                "urdu": "کو",
+                "hindi": "को",
+                "english": "ko"
+              }
+            },
+            {
+              "word": "جانے",
+              "meanings": {
+                "urdu": "جانا، چلے جانا",
+                "hindi": "जाना, चले जाना",
+                "english": "Go, depart"
+              },
+              "mapping": {
+                "urdu": "جانے",
+                "hindi": "जाने",
+                "english": "jaane"
+              }
+            },
+            {
+              "word": "پر",
+              "meanings": {
+                "urdu": "پر، اوپر",
+                "hindi": "पर, ऊपर",
+                "english": "On, upon"
+              },
+              "mapping": {
+                "urdu": "پر",
+                "hindi": "पर",
+                "english": "par"
+              }
+            },
+            {
+              "word": "کر",
+              "meanings": {
+                "urdu": "کرنا، عمل کرنا",
+                "hindi": "करना, कार्य करना",
+                "english": "Do, perform"
+              },
+              "mapping": {
+                "urdu": "کر",
+                "hindi": "कर",
+                "english": "kar"
+              }
+            },
+            {
+              "word": "مجبور",
+              "meanings": {
+                "urdu": "مجبور، لاچار",
+                "hindi": "मजबूर, लाचार",
+                "english": "Compelled, helpless"
+              },
+              "mapping": {
+                "urdu": "مجبور",
+                "hindi": "मजबूर",
+                "english": "majboor"
+              }
+            },
+            {
+              "word": "یاد",
+              "meanings": {
+                "urdu": "یاد، یادداشت",
+                "hindi": "याद, स्मृति",
+                "english": "Memory, remembrance"
+              },
+              "mapping": {
+                "urdu": "یاد",
+                "hindi": "याद",
+                "english": "yaad"
+              }
+            },
+            {
+              "word": "کتنا",
+              "meanings": {
+                "urdu": "کتنا، کتنی",
+                "hindi": "कितना, कितनी",
+                "english": "How much, how many"
+              },
+              "mapping": {
+                "urdu": "کتنا",
+                "hindi": "कितना",
+                "english": "kitna"
+              }
+            },
+            {
+              "word": "روؤں",
+              "meanings": {
+                "urdu": "رونا، آنسو بہانا",
+                "hindi": "रोना, आँसू बहाना",
+                "english": "Cry, weep"
+              },
+              "mapping": {
+                "urdu": "روؤں",
+                "hindi": "रोऊँ",
+                "english": "roun"
+              }
+            },
+            {
+              "word": "بتاؤں",
+              "meanings": {
+                "urdu": "بتانا، سمجھانا",
+                "hindi": "बताना, समझाना",
+                "english": "Tell, explain"
+              },
+              "mapping": {
+                "urdu": "بتاؤں",
+                "hindi": "बताऊँ",
+                "english": "bataaun"
+              }
+            },
+            {
+              "word": "بچھڑ",
+              "meanings": {
+                "urdu": "بچھڑنا، جدا ہونا",
+                "hindi": "बिछड़ना, अलग होना",
+                "english": "Separate, part"
+              },
+              "mapping": {
+                "urdu": "بچھڑ",
+                "hindi": "बिछड़",
+                "english": "bichhad"
+              }
+            },
+            {
+              "word": "کیا",
+              "meanings": {
+                "urdu": "کیا، کون سا",
+                "hindi": "क्या, कौन सा",
+                "english": "What"
+              },
+              "mapping": {
+                "urdu": "کیا",
+                "hindi": "क्या",
+                "english": "kya"
+              }
+            },
+            {
+              "word": "دکھڑا",
+              "meanings": {
+                "urdu": "دکھ، تکلیف",
+                "hindi": "दुख, कष्ट",
+                "english": "Pain, suffering"
+              },
+              "mapping": {
+                "urdu": "دکھڑا",
+                "hindi": "दुखड़ा",
+                "english": "dukhda"
+              }
+            },
+            {
+              "word": "اے",
+              "meanings": {
+                "urdu": "اے، مخاطب کے لیے",
+                "hindi": "ए, संबोधन के लिए",
+                "english": "O, addressing"
+              },
+              "mapping": {
+                "urdu": "اے",
+                "hindi": "ए",
+                "english": "aye"
+              }
+            },
+            {
+              "word": "نے",
+              "meanings": {
+                "urdu": "نے، فاعل کی نشاندہی",
+                "hindi": "ने, कर्ता की पहचान",
+                "english": "By (subject marker)"
+              },
+              "mapping": {
+                "urdu": "نے",
+                "hindi": "ने",
+                "english": "ne"
+              }
+            },
+            {
+              "word": "اٹھایا",
+              "meanings": {
+                "urdu": "اٹھانا، برداشت کرنا",
+                "hindi": "उठाना, सहना",
+                "english": "Bear, endure"
+              },
+              "mapping": {
+                "urdu": "اٹھایا",
+                "hindi": "उठाया",
+                "english": "uthaaya"
+              }
+            },
+            {
+              "word": "ہے",
+              "meanings": {
+                "urdu": "ہے، موجود",
+                "hindi": "है, मौजूद",
+                "english": "Is, exists"
+              },
+              "mapping": {
+                "urdu": "ہے",
+                "hindi": "है",
+                "english": "hai"
+              }
+            },
+            {
+              "word": "ٹھوکر",
+              "meanings": {
+                "urdu": "ٹھوکر، دھچکا",
+                "hindi": "ठोकर, धक्का",
+                "english": "Stumble, blow"
+              },
+              "mapping": {
+                "urdu": "ٹھوکر",
+                "hindi": "ठोकर",
+                "english": "thokar"
+              }
+            },
+            {
+              "word": "ماری",
+              "meanings": {
+                "urdu": "مارنا، چوٹ لگانا",
+                "hindi": "मारना, चोट पहुँचाना",
+                "english": "Hit, strike"
+              },
+              "mapping": {
+                "urdu": "ماری",
+                "hindi": "मारी",
+                "english": "maari"
+              }
+            },
+            {
+              "word": "اُس",
+              "meanings": {
+                "urdu": "اس، اسے",
+                "hindi": "उस, उसे",
+                "english": "That, him"
+              },
+              "mapping": {
+                "urdu": "اُس",
+                "hindi": "उस",
+                "english": "us"
+              }
+            },
+            {
+              "word": "جس",
+              "meanings": {
+                "urdu": "جس، جو",
+                "hindi": "जिस, जो",
+                "english": "Who, which"
+              },
+              "mapping": {
+                "urdu": "جس",
+                "hindi": "जिस",
+                "english": "jis"
+              }
+            },
+            {
+              "word": "جی",
+              "meanings": {
+                "urdu": "دل، جان",
+                "hindi": "जी, मन",
+                "english": "Heart, soul"
+              },
+              "mapping": {
+                "urdu": "جی",
+                "hindi": "जी",
+                "english": "ji"
+              }
+            },
+            {
+              "word": "آیا",
+              "meanings": {
+                "urdu": "آنا، وارد ہونا",
+                "hindi": "आना, आगमन",
+                "english": "Come, arrived"
+              },
+              "mapping": {
+                "urdu": "آیا",
+                "hindi": "आया",
+                "english": "aaya"
+              }
+            },
+            {
+              "word": "آجا",
+              "meanings": {
+                "urdu": "آجا، آ",
+                "hindi": "आजा, आ",
+                "english": "Come"
+              },
+              "mapping": {
+                "urdu": "آجا",
+                "hindi": "आजा",
+                "english": "aaja"
+              }
+            },
+            {
+              "word": "لوٹ",
+              "meanings": {
+                "urdu": "لوٹنا، واپس آنا",
+                "hindi": "लौटना, वापस आना",
+                "english": "Return, come back"
+              },
+              "mapping": {
+                "urdu": "لوٹ",
+                "hindi": "लौट",
+                "english": "laut"
+              }
+            },
+            {
+              "word": "ہردم",
+              "meanings": {
+                "urdu": "ہر دم، ہمیشہ",
+                "hindi": "हरदम, हमेशा",
+                "english": "Always, every moment"
+              },
+              "mapping": {
+                "urdu": "ہردم",
+                "hindi": "हरदम",
+                "english": "hardam"
+              }
+            },
+            {
+              "word": "پکاروں",
+              "meanings": {
+                "urdu": "پکارنا، بلانا",
+                "hindi": "पुकारना, बुलाना",
+                "english": "Call, summon"
+              },
+              "mapping": {
+                "urdu": "پکاروں",
+                "hindi": "पुकारूँ",
+                "english": "pukaaroon"
+              }
+            },
+            {
+              "word": "خوابوں",
+              "meanings": {
+                "urdu": "خواب، سپنے",
+                "hindi": "स्वप्न, सपने",
+                "english": "Dreams"
+              },
+              "mapping": {
+                "urdu": "خوابوں",
+                "hindi": "सपनों",
+                "english": "khwaabon"
+              }
+            },
+            {
+              "word": "ہی",
+              "meanings": {
+                "urdu": "ہی، صرف",
+                "hindi": "ही, केवल",
+                "english": "Only, indeed"
+              },
+              "mapping": {
+                "urdu": "ہی",
+                "hindi": "ही",
+                "english": "hi"
+              }
+            },
+            {
+              "word": "میرے",
+              "meanings": {
+                "urdu": "میرا، میرے",
+                "hindi": "मेरा, मेरे",
+                "english": "My, mine"
+              },
+              "mapping": {
+                "urdu": "میرے",
+                "hindi": "मेरे",
+                "english": "mere"
+              }
+            },
+            {
+              "word": "بھر",
+              "meanings": {
+                "urdu": "بھر، پورا",
+                "hindi": "भर, पूरा",
+                "english": "Full, completely"
+              },
+              "mapping": {
+                "urdu": "بھر",
+                "hindi": "भर",
+                "english": "bhar"
+              }
+            },
+            {
+              "word": "دیکھوں",
+              "meanings": {
+                "urdu": "دیکھنا، مشاہدہ کرنا",
+                "hindi": "देखना, अवलोकन करना",
+                "english": "See, observe"
+              },
+              "mapping": {
+                "urdu": "دیکھوں",
+                "hindi": "देखूँ",
+                "english": "dekhoon"
+              }
+            },
+            {
+              "word": "رہتا",
+              "meanings": {
+                "urdu": "رہنا، باقی رہنا",
+                "hindi": "रहना, बाकी रहना",
+                "english": "Stay, remain"
+              },
+              "mapping": {
+                "urdu": "رہتا",
+                "hindi": "रहता",
+                "english": "rehta"
+              }
+            },
+            {
+              "word": "ہوں",
+              "meanings": {
+                "urdu": "ہوں، ہونا",
+                "hindi": "हूँ, होना",
+                "english": "Am, be"
+              },
+              "mapping": {
+                "urdu": "ہوں",
+                "hindi": "हूँ",
+                "english": "hoon"
+              }
+            },
+            {
+              "word": "بے",
+              "meanings": {
+                "urdu": "بغیر، خالی",
+                "hindi": "बिना, खाली",
+                "english": "Without, devoid"
+              },
+              "mapping": {
+                "urdu": "بے",
+                "hindi": "बे",
+                "english": "be"
+              }
+            },
+            {
+              "word": "چین",
+              "meanings": {
+                "urdu": "چین، سکون",
+                "hindi": "चैन, सुकून",
+                "english": "Peace, calm"
+              },
+              "mapping": {
+                "urdu": "چین",
+                "hindi": "चैन",
+                "english": "chain"
+              }
+            },
+            {
+              "word": "بہت",
+              "meanings": {
+                "urdu": "بہت، زیادہ",
+                "hindi": "बहुत, अधिक",
+                "english": "Much, very"
+              },
+              "mapping": {
+                "urdu": "بہت",
+                "hindi": "बहुत",
+                "english": "bahut"
+              }
+            },
+            {
+              "word": "کچھ",
+              "meanings": {
+                "urdu": "کچھ، کچھ بھی",
+                "hindi": "कुछ, कुछ भी",
+                "english": "Some, anything"
+              },
+              "mapping": {
+                "urdu": "کچھ",
+                "hindi": "कुछ",
+                "english": "kuchh"
+              }
+            },
+            {
+              "word": "ملے",
+              "meanings": {
+                "urdu": "ملنا، حاصل ہونا",
+                "hindi": "मिलना, प्राप्त होना",
+                "english": "Obtain, receive"
+              },
+              "mapping": {
+                "urdu": "ملے",
+                "hindi": "मिले",
+                "english": "mile"
+              }
+            },
+            {
+              "word": "راحت",
+              "meanings": {
+                "urdu": "راحت، سکون",
+                "hindi": "राहत, सुकून",
+                "english": "Relief, comfort"
+              },
+              "mapping": {
+                "urdu": "راحت",
+                "hindi": "राहत",
+                "english": "raahat"
+              }
+            },
+            {
+              "word": "جیسے",
+              "meanings": {
+                "urdu": "جیسے، اس طرح",
+                "hindi": "जैसे, इस तरह",
+                "english": "Like, as"
+              },
+              "mapping": {
+                "urdu": "جیسے",
+                "hindi": "जैसे",
+                "english": "jaise"
+              }
+            },
+            {
+              "word": "بھی",
+              "meanings": {
+                "urdu": "بھی، حتیٰ کہ",
+                "hindi": "भी, यहाँ तक कि",
+                "english": "Also, even"
+              },
+              "mapping": {
+                "urdu": "بھی",
+                "hindi": "भी",
+                "english": "bhi"
+              }
+            },
+            {
+              "word": "نغمہ",
+              "meanings": {
+                "urdu": "نغمہ، گیت",
+                "hindi": "नग़मा, गीत",
+                "english": "Song, melody"
+              },
+              "mapping": {
+                "urdu": "نغمہ",
+                "hindi": "नग़मा",
+                "english": "naghma"
+              }
+            },
+            {
+              "word": "خوشی",
+              "meanings": {
+                "urdu": "خوشی، مسرت",
+                "hindi": "खुशी, आनंद",
+                "english": "Happiness, joy"
+              },
+              "mapping": {
+                "urdu": "خوشی",
+                "hindi": "खुशी",
+                "english": "khushi"
+              }
+            },
+            {
+              "word": "کا",
+              "meanings": {
+                "urdu": "کا، کی",
+                "hindi": "का, की",
+                "english": "Of, belonging to"
+              },
+              "mapping": {
+                "urdu": "کا",
+                "hindi": "का",
+                "english": "ka"
+              }
+            },
+            {
+              "word": "گاؤں",
+              "meanings": {
+                "urdu": "گانا، نغمہ سرائی",
+                "hindi": "गाना, गीत गाना",
+                "english": "Sing, chant"
+              },
+              "mapping": {
+                "urdu": "گاؤں",
+                "hindi": "गाऊँ",
+                "english": "gaaun"
+              }
+            },
+            {
+              "word": "پیار",
+              "meanings": {
+                "urdu": "پیار، محبت",
+                "hindi": "प्यार, प्रेम",
+                "english": "Love, affection"
+              },
+              "mapping": {
+                "urdu": "پیار",
+                "hindi": "प्यार",
+                "english": "pyaar"
+              }
+            },
+            {
+              "word": "تیرا",
+              "meanings": {
+                "urdu": "تیرا، تیری",
+                "hindi": "तेरा, तेरी",
+                "english": "Your"
+              },
+              "mapping": {
+                "urdu": "تیرا",
+                "hindi": "तेरा",
+                "english": "tera"
+              }
+            },
+            {
+              "word": "پاس",
+              "meanings": {
+                "urdu": "پاس، قریب",
+                "hindi": "पास, निकट",
+                "english": "Near, with"
+              },
+              "mapping": {
+                "urdu": "پاس",
+                "hindi": "पास",
+                "english": "paas"
+              }
+            },
+            {
+              "word": "بلانا",
+              "meanings": {
+                "urdu": "بلانا، پکارنا",
+                "hindi": "बुलाना, पुकारना",
+                "english": "Call, summon"
+              },
+              "mapping": {
+                "urdu": "بلانا",
+                "hindi": "बुलाना",
+                "english": "bulaana"
+              }
+            },
+            {
+              "word": "اور",
+              "meanings": {
+                "urdu": "اور، مزید",
+                "hindi": "और, अधिक",
+                "english": "And, more"
+              },
+              "mapping": {
+                "urdu": "اور",
+                "hindi": "और",
+                "english": "aur"
+              }
+            },
+            {
+              "word": "گلے",
+              "meanings": {
+                "urdu": "گلا، گلے",
+                "hindi": "गला, गले",
+                "english": "Neck, embrace"
+              },
+              "mapping": {
+                "urdu": "گلے",
+                "hindi": "गले",
+                "english": "gale"
+              }
+            },
+            {
+              "word": "لگا",
+              "meanings": {
+                "urdu": "لگانا، قریب کرنا",
+                "hindi": "लगाना, पास करना",
+                "english": "Embrace, attach"
+              },
+              "mapping": {
+                "urdu": "لگا",
+                "hindi": "लगा",
+                "english": "laga"
+              }
+            },
+            {
+              "word": "لینا",
+              "meanings": {
+                "urdu": "لینا، حاصل کرنا",
+                "hindi": "लेना, प्राप्त करना",
+                "english": "Take, receive"
+              },
+              "mapping": {
+                "urdu": "لینا",
+                "hindi": "लेना",
+                "english": "lena"
+              }
+            },
+            {
+              "word": "پھر",
+              "meanings": {
+                "urdu": "پھر، دوبارہ",
+                "hindi": "फिर, दोबारा",
+                "english": "Then, again"
+              },
+              "mapping": {
+                "urdu": "پھر",
+                "hindi": "फिर",
+                "english": "phir"
+              }
+            },
+            {
+              "word": "چہرے",
+              "meanings": {
+                "urdu": "چہرہ، صورت",
+                "hindi": "चेहरा, मुख",
+                "english": "Face"
+              },
+              "mapping": {
+                "urdu": "چہرے",
+                "hindi": "चेहरे",
+                "english": "chehre"
+              }
+            },
+            {
+              "word": "ہر",
+              "meanings": {
+                "urdu": "ہر، تمام",
+                "hindi": "हर, सभी",
+                "english": "Every, all"
+              },
+              "mapping": {
+                "urdu": "ہر",
+                "hindi": "हर",
+                "english": "har"
+              }
+            },
+            {
+              "word": "حصے",
+              "meanings": {
+                "urdu": "حصہ، ٹکڑا",
+                "hindi": "हिस्सा, टुकड़ा",
+                "english": "Part, portion"
+              },
+              "mapping": {
+                "urdu": "حصے",
+                "hindi": "हिस्से",
+                "english": "hisse"
+              }
+            },
+            {
+              "word": "خوش",
+              "meanings": {
+                "urdu": "خوش، شادمان",
+                "hindi": "खुश, प्रसन्न",
+                "english": "Happy, joyful"
+              },
+              "mapping": {
+                "urdu": "خوش",
+                "hindi": "खुश",
+                "english": "khush"
+              }
+            },
+            {
+              "word": "بوسہ",
+              "meanings": {
+                "urdu": "بوسہ، چومنا",
+                "hindi": "चुंबन, चूमना",
+                "english": "Kiss"
+              },
+              "mapping": {
+                "urdu": "بوسہ",
+                "hindi": "बोसा",
+                "english": "bosa"
+              }
+            },
+            {
+              "word": "دینا",
+              "meanings": {
+                "urdu": "دینا، عطا کرنا",
+                "hindi": "देना, प्रदान करना",
+                "english": "Give, bestow"
+              },
+              "mapping": {
+                "urdu": "دینا",
+                "hindi": "देना",
+                "english": "dena"
+              }
+            },
+            {
+              "word": "دن",
+              "meanings": {
+                "urdu": "دن، روز",
+                "hindi": "दिन, रोज़",
+                "english": "Day"
+              },
+              "mapping": {
+                "urdu": "دن",
+                "hindi": "दिन",
+                "english": "din"
+              }
+            },
+            {
+              "word": "وہ",
+              "meanings": {
+                "urdu": "وہ، اس",
+                "hindi": "वह, उस",
+                "english": "That, it"
+              },
+              "mapping": {
+                "urdu": "وہ",
+                "hindi": "वह",
+                "english": "woh"
+              }
+            },
+            {
+              "word": "بھلانا",
+              "meanings": {
+                "urdu": "بھولنا، بھلانا",
+                "hindi": "भूलना, भुलाना",
+                "english": "Forget, erase"
+              },
+              "mapping": {
+                "urdu": "بھلانا",
+                "hindi": "भुलाना",
+                "english": "bhulaana"
+              }
+            },
+            {
+              "word": "چاہوں",
+              "meanings": {
+                "urdu": "چاہنا، خواہش کرنا",
+                "hindi": "चाहना, इच्छा करना",
+                "english": "Want, desire"
+              },
+              "mapping": {
+                "urdu": "چاہوں",
+                "hindi": "चाहूँ",
+                "english": "chaahoon"
+              }
+            },
+            {
+              "word": "اک",
+              "meanings": {
+                "urdu": "ایک، واحد",
+                "hindi": "एक, अकेला",
+                "english": "One, single"
+              },
+              "mapping": {
+                "urdu": "اک",
+                "hindi": "एक",
+                "english": "ek"
+              }
+            },
+            {
+              "word": "پل",
+              "meanings": {
+                "urdu": "پل، لمحہ",
+                "hindi": "पल, क्षण",
+                "english": "Moment"
+              },
+              "mapping": {
+                "urdu": "پل",
+                "hindi": "पल",
+                "english": "pal"
+              }
+            },
+            {
+              "word": "پاؤں",
+              "meanings": {
+                "urdu": "پانا، حاصل کرنا",
+                "hindi": "पाना, प्राप्त करना",
+                "english": "Obtain, achieve"
+              },
+              "mapping": {
+                "urdu": "پاؤں",
+                "hindi": "पाऊँ",
+                "english": "paaun"
+              }
+            },
+            {
+              "word": "دیکھ",
+              "meanings": {
+                "urdu": "دیکھنا، مشاہدہ کرنا",
+                "hindi": "देखना, अवलोकन करना",
+                "english": "See, observe"
+              },
+              "mapping": {
+                "urdu": "دیکھ",
+                "hindi": "देख",
+                "english": "dekh"
+              }
+            },
+            {
+              "word": "ماتھے",
+              "meanings": {
+                "urdu": "ماتھا، پیشانی",
+                "hindi": "माथा, ललाट",
+                "english": "Forehead"
+              },
+              "mapping": {
+                "urdu": "ماتھے",
+                "hindi": "माथे",
+                "english": "maathe"
+              }
+            },
+            {
+              "word": "پہ",
+              "meanings": {
+                "urdu": "پر، اوپر",
+                "hindi": "पर, ऊपर",
+                "english": "On, upon"
+              },
+              "mapping": {
+                "urdu": "پہ",
+                "hindi": "पे",
+                "english": "pe"
+              }
+            },
+            {
+              "word": "بل",
+              "meanings": {
+                "urdu": "بل، شکن",
+                "hindi": "बल, सिलवट",
+                "english": "Wrinkle, fold"
+              },
+              "mapping": {
+                "urdu": "بل",
+                "hindi": "बल",
+                "english": "bal"
+              }
+            },
+            {
+              "word": "ہائی",
+              "meanings": {
+                "urdu": "ہائے، افسوس",
+                "hindi": "हाय, अफसोस",
+                "english": "Alas, sigh"
+              },
+              "mapping": {
+                "urdu": "ہائی",
+                "hindi": "हाय",
+                "english": "haai"
+              }
+            },
+            {
+              "word": "تڑپ",
+              "meanings": {
+                "urdu": "تڑپنا، بےچینی",
+                "hindi": "तड़पना, बेचैनी",
+                "english": "Writhe, restlessness"
+              },
+              "mapping": {
+                "urdu": "تڑپ",
+                "hindi": "तड़प",
+                "english": "tadap"
+              }
+            },
+            {
+              "word": "جانا",
+              "meanings": {
+                "urdu": "جانا، چلے جانا",
+                "hindi": "जाना, चले जाना",
+                "english": "Go, depart"
+              },
+              "mapping": {
+                "urdu": "جانا",
+                "hindi": "जाना",
+                "english": "jaana"
+              }
+            },
+            {
+              "word": "آتا",
+              "meanings": {
+                "urdu": "آنا، وارد ہونا",
+                "hindi": "आना, आगमन",
+                "english": "Come, arrive"
+              },
+              "mapping": {
+                "urdu": "آتا",
+                "hindi": "आता",
+                "english": "aata"
+              }
+            },
+            {
+              "word": "الفت",
+              "meanings": {
+                "urdu": "الفت، محبت",
+                "hindi": "अलफत, प्रेम",
+                "english": "Affection, love"
+              },
+              "mapping": {
+                "urdu": "الفت",
+                "hindi": "अलफत",
+                "english": "ulfat"
+              }
+            },
+            {
+              "word": "زمانہ",
+              "meanings": {
+                "urdu": "زمانہ، وقت",
+                "hindi": "ज़माना, समय",
+                "english": "Era, time"
+              },
+              "mapping": {
+                "urdu": "زمانہ",
+                "hindi": "ज़माना",
+                "english": "zamaana"
+              }
+            },
+            {
+              "word": "کوئی",
+              "meanings": {
+                "urdu": "کوئی، ایک",
+                "hindi": "कोई, एक",
+                "english": "Any, someone"
+              },
+              "mapping": {
+                "urdu": "کوئی",
+                "hindi": "कोई",
+                "english": "koi"
+              }
+            },
+            {
+              "word": "ثانی",
+              "meanings": {
+                "urdu": "ثانی، دوسرا",
+                "hindi": "सानी, दूसरा",
+                "english": "Second, another"
+              },
+              "mapping": {
+                "urdu": "ثانی",
+                "hindi": "सानी",
+                "english": "saani"
+              }
+            },
+            {
+              "word": "کہاں",
+              "meanings": {
+                "urdu": "کہاں، کس جگہ",
+                "hindi": "कहाँ, किस जगह",
+                "english": "Where"
+              },
+              "mapping": {
+                "urdu": "کہاں",
+                "hindi": "कहाँ",
+                "english": "kahaan"
+              }
+            },
+            {
+              "word": "لاؤں",
+              "meanings": {
+                "urdu": "لانا، لے آنا",
+                "hindi": "लाना, ले आना",
+                "english": "Bring, fetch"
+              },
+              "mapping": {
+                "urdu": "لاؤں",
+                "hindi": "लाऊँ",
+                "english": "laaun"
+              }
+            }
+          ]
         }
       ]
     },

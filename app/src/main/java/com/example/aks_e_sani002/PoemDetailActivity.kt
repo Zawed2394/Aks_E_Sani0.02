@@ -261,8 +261,8 @@ class PoemDetailActivity : AppCompatActivity() {
                         }
 
                         override fun updateDrawState(ds: TextPaint) {
-                            ds.isUnderlineText = true
-                            ds.color = Color.BLACK // Set underline and text color to black
+                            ds.isUnderlineText = false // Remove underline
+                            ds.color = Color.BLACK // Set text color to black
                         }
                     }
                     clickableSpan.wordObj = wordObj

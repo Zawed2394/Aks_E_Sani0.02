@@ -27,6 +27,20 @@
     <string name="search_title">تلاش</string>
     <string name="app_title">ایپ کی معلومات</string>
 
+    <!-- Toasts and Messages -->
+    <string name="switching_language_toast">%1$s میں تبدیل کیا جا رہا ہے</string>
+    <string name="share_message_body">\'%1$s\' ایپ کو دیکھیں! آپ اسے یہاں سے ڈاؤن لوڈ کر سکتے ہیں: %2$s</string>
+    <string name="error_sharing_app">ایپ شیئر نہیں کی جا سکی۔</string>
+    <string name="no_app_to_handle_url">کوئی ایپلیکیشن اس درخواست کو نہیں سنبھال سکتی۔</string>
+    <string name="error_opening_url">یو آر ایل نہیں کھولا جا سکا۔</string>
+
+    <!-- Content related (examples) -->
+    <string name="poem_title_placeholder">نظم کا عنوان</string>
+    <string name="poem_text_placeholder">نظم لوڈ ہو رہی ہے...</string>
+    <string name="back_button_desc">واپس</string>
+    <string name="search_hint">تلاش کرنے کے لئے عنوان درج کریں</string>
+    <string name="no_search_results">کوئی نتیجہ نہیں ملا</string>
+
     <!-- Section headings -->
     <string name="section_hamd">حمد</string>
     <string name="section_naat">نعت</string>
