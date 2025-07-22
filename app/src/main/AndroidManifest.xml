@@ -27,6 +27,8 @@
         <activity android:name=".PoemDetailActivity" />
         <activity android:name=".IntisabActivity"/>
         <activity android:name=".IntroductionActivity"/>
+        <activity android:name=".TabsiraActivity"/>
+        <activity android:name=".TabsiraDetailActivity" />
 
     </application>
 </manifest>

@@ -61,6 +61,11 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         fehristButton.setOnClickListener {
             startActivity(Intent(this, FehristActivity::class.java))
         }
+        val tabsiraButton: Button = findViewById(R.id.button2)
+        tabsiraButton.text = getString(R.string.button_tabsira)
+        tabsiraButton.setOnClickListener {
+            startActivity(Intent(this, TabsiraActivity::class.java))
+        }
 
         val searchButton: Button = findViewById(R.id.button5)
         searchButton.text = getString(R.string.button_search)
@@ -106,6 +111,9 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         val fehristButton: Button = findViewById(R.id.button1)
         fehristButton.text = getString(R.string.button_fehrist)
 
+        val tabsiraButton: Button = findViewById(R.id.button2)
+        tabsiraButton.text = getString(R.string.button_tabsira)
+
         val searchButton: Button = findViewById(R.id.button5)
         searchButton.text = getString(R.string.button_search)
 
@@ -126,6 +134,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
             R.id.nav_youtube -> openUrl("https://www.youtube.com/yourchannel")
             R.id.nav_share -> shareAppLink()
             R.id.nav_fehrist -> startActivity(Intent(this, FehristActivity::class.java))
+            R.id.nav_tabsira -> startActivity(Intent(this, TabsiraActivity::class.java))
             R.id.nav_search -> {
                 loadSearchTitles(currentAppLanguage)
                 showSearchDialog()

@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">अक्स-ए-सानी</string>
     <string name="button_fehrist">फ़ेहरिस्त</string>
-    <string name="button_tabsira">टब्सीरा</string>
+    <string name="button_tabsira">तब्सिराह</string>
     <string name="button_introduction">तारुफ़</string>
     <string name="button_intesab">इंतसाब</string>
     <string name="button_search">तलाश</string>
@@ -21,7 +21,7 @@
     <string name="share_via">के माध्यम से साझा करें</string>
     <string name="content_desc_main_image">नूरुद्दीन सानी की मुख्य छवि</string>
     <string name="fehrist_title">फ़ेहरिस्त</string>
-    <string name="tabsira_title">टब्सीरा</string>
+    <string name="tabsira_title">तब्सिराह</string>
     <string name="introduction_title">तारुफ़</string>
     <string name="intesab_title">इंतसाब</string>
     <string name="search_title">तलाश</string>
@@ -37,6 +37,9 @@
     <!-- Content related (examples) -->
     <string name="poem_title_placeholder">कविता का शीर्षक</string>
     <string name="poem_text_placeholder">कविता लोड हो रही है...</string>
+    <string name="previous">पिछला</string>
+    <string name="next">अगला</string>
+    <string name="content_not_available_default">सामग्री उपलब्ध नहीं है।</string>
     <string name="back_button_desc">वापस</string>
     <string name="search_hint">तलाश करने के लिए शीर्षक दर्ज करें</string>
     <string name="no_search_results">कोई परिणाम नहीं मिला</string>

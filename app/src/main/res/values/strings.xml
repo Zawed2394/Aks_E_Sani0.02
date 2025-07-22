@@ -31,11 +31,14 @@
     <string name="switching_language_toast">Switching to %1$s</string>
     <string name="share_message_body">Check out the app \'%1$s\'! You can download it here: %2$s</string>
     <string name="error_sharing_app">Could not share app.</string>
+    <string name="content_not_available_default">Content not available.</string>
     <string name="no_app_to_handle_url">No application can handle this request.</string>
     <string name="error_opening_url">Could not open URL.</string>
 
     <!-- Content related (examples, you might have more) -->
     <string name="poem_title_placeholder">Poem Title</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
     <string name="back_button_desc">Back</string>
     <string name="poem_text_placeholder">Loading poem...</string>
     <string name="search_hint">Enter title to search</string>
